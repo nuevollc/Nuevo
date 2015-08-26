@@ -1,0 +1,36 @@
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Reporting\CallReporting_06252012\CdrProcessor\bin\Debug\CdrProcessor.dll
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Reporting\CallReporting_06252012\CdrProcessor\bin\Debug\CdrProcessor.pdb
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Reporting\CallReporting_06252012\CdrProcessor\bin\Debug\LogFileMgr.dll
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Reporting\CallReporting_06252012\CdrProcessor\bin\Debug\Reports.dll
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Reporting\CallReporting_06252012\CdrProcessor\bin\Debug\LogFileMgr.pdb
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Reporting\CallReporting_06252012\CdrProcessor\bin\Debug\Reports.pdb
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Reporting\CallReporting_06252012\CdrProcessor\obj\Debug\CdrProcessor.csprojResolveAssemblyReference.cache
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Reporting\CallReporting_06252012\CdrProcessor\obj\Debug\CdrProcessor.dll
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Reporting\CallReporting_06252012\CdrProcessor\obj\Debug\CdrProcessor.pdb
+D:\GoogleDrive\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Reporting\CallReporting_06252012\CdrProcessor\bin\Debug\CdrProcessor.dll
+D:\GoogleDrive\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Reporting\CallReporting_06252012\CdrProcessor\bin\Debug\CdrProcessor.pdb
+D:\GoogleDrive\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Reporting\CallReporting_06252012\CdrProcessor\bin\Debug\LogFileMgr.dll
+D:\GoogleDrive\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Reporting\CallReporting_06252012\CdrProcessor\bin\Debug\Reports.dll
+D:\GoogleDrive\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Reporting\CallReporting_06252012\CdrProcessor\bin\Debug\LogFileMgr.pdb
+D:\GoogleDrive\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Reporting\CallReporting_06252012\CdrProcessor\bin\Debug\Reports.pdb
+D:\GoogleDrive\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Reporting\CallReporting_06252012\CdrProcessor\obj\Debug\CdrProcessor.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Reporting\CallReporting_06252012\CdrProcessor\obj\Debug\CdrProcessor.dll
+D:\GoogleDrive\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Reporting\CallReporting_06252012\CdrProcessor\obj\Debug\CdrProcessor.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Reporting\CallReporting_06252012\CdrProcessor\bin\Debug\CdrProcessor.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Reporting\CallReporting_06252012\CdrProcessor\bin\Debug\CdrProcessor.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Reporting\CallReporting_06252012\CdrProcessor\bin\Debug\LogFileMgr.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Reporting\CallReporting_06252012\CdrProcessor\bin\Debug\Reports.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Reporting\CallReporting_06252012\CdrProcessor\bin\Debug\LogFileMgr.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Reporting\CallReporting_06252012\CdrProcessor\bin\Debug\Reports.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Reporting\CallReporting_06252012\CdrProcessor\obj\Debug\CdrProcessor.csprojResolveAssemblyReference.cache
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Reporting\CallReporting_06252012\CdrProcessor\obj\Debug\CdrProcessor.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Reporting\CallReporting_06252012\CdrProcessor\obj\Debug\CdrProcessor.pdb
+C:\Users\RobertL\Documents\Nuevo\Software\Projects\Reporting\DeptCallReporting\CdrProcessor\bin\Debug\CdrProcessor.dll
+C:\Users\RobertL\Documents\Nuevo\Software\Projects\Reporting\DeptCallReporting\CdrProcessor\bin\Debug\CdrProcessor.pdb
+C:\Users\RobertL\Documents\Nuevo\Software\Projects\Reporting\DeptCallReporting\CdrProcessor\bin\Debug\LogFileMgr.dll
+C:\Users\RobertL\Documents\Nuevo\Software\Projects\Reporting\DeptCallReporting\CdrProcessor\bin\Debug\Reports.dll
+C:\Users\RobertL\Documents\Nuevo\Software\Projects\Reporting\DeptCallReporting\CdrProcessor\bin\Debug\LogFileMgr.pdb
+C:\Users\RobertL\Documents\Nuevo\Software\Projects\Reporting\DeptCallReporting\CdrProcessor\bin\Debug\Reports.pdb
+C:\Users\RobertL\Documents\Nuevo\Software\Projects\Reporting\DeptCallReporting\CdrProcessor\obj\Debug\CdrProcessor.csprojResolveAssemblyReference.cache
+C:\Users\RobertL\Documents\Nuevo\Software\Projects\Reporting\DeptCallReporting\CdrProcessor\obj\Debug\CdrProcessor.dll
+C:\Users\RobertL\Documents\Nuevo\Software\Projects\Reporting\DeptCallReporting\CdrProcessor\obj\Debug\CdrProcessor.pdb

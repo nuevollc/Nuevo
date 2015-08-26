@@ -1,0 +1,14 @@
+C:\Users\RobertL\Documents\Nuevo\Software\Projects\Reporting\DeptCallReporting\DeptReportSvc\DeptReportingSvc\bin\Debug\DeptReportingSvc.exe.config
+C:\Users\RobertL\Documents\Nuevo\Software\Projects\Reporting\DeptCallReporting\DeptReportSvc\DeptReportingSvc\bin\Debug\DeptReportingSvc.exe
+C:\Users\RobertL\Documents\Nuevo\Software\Projects\Reporting\DeptCallReporting\DeptReportSvc\DeptReportingSvc\bin\Debug\DeptReportingSvc.pdb
+C:\Users\RobertL\Documents\Nuevo\Software\Projects\Reporting\DeptCallReporting\DeptReportSvc\DeptReportingSvc\bin\Debug\CdrProcessor.dll
+C:\Users\RobertL\Documents\Nuevo\Software\Projects\Reporting\DeptCallReporting\DeptReportSvc\DeptReportingSvc\bin\Debug\DeptCallProcessor.dll
+C:\Users\RobertL\Documents\Nuevo\Software\Projects\Reporting\DeptCallReporting\DeptReportSvc\DeptReportingSvc\bin\Debug\Reports.dll
+C:\Users\RobertL\Documents\Nuevo\Software\Projects\Reporting\DeptCallReporting\DeptReportSvc\DeptReportingSvc\bin\Debug\LogFileMgr.dll
+C:\Users\RobertL\Documents\Nuevo\Software\Projects\Reporting\DeptCallReporting\DeptReportSvc\DeptReportingSvc\bin\Debug\CdrProcessor.pdb
+C:\Users\RobertL\Documents\Nuevo\Software\Projects\Reporting\DeptCallReporting\DeptReportSvc\DeptReportingSvc\bin\Debug\DeptCallProcessor.pdb
+C:\Users\RobertL\Documents\Nuevo\Software\Projects\Reporting\DeptCallReporting\DeptReportSvc\DeptReportingSvc\bin\Debug\Reports.pdb
+C:\Users\RobertL\Documents\Nuevo\Software\Projects\Reporting\DeptCallReporting\DeptReportSvc\DeptReportingSvc\bin\Debug\LogFileMgr.pdb
+C:\Users\RobertL\Documents\Nuevo\Software\Projects\Reporting\DeptCallReporting\DeptReportSvc\DeptReportingSvc\obj\Debug\DeptReportingSvc.csprojResolveAssemblyReference.cache
+C:\Users\RobertL\Documents\Nuevo\Software\Projects\Reporting\DeptCallReporting\DeptReportSvc\DeptReportingSvc\obj\Debug\DeptReportingSvc.exe
+C:\Users\RobertL\Documents\Nuevo\Software\Projects\Reporting\DeptCallReporting\DeptReportSvc\DeptReportingSvc\obj\Debug\DeptReportingSvc.pdb
