@@ -1,9 +1,0 @@
-C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\Utils\LogFileMgr\bin\Release\LogFileMgr.dll
-C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\Utils\LogFileMgr\bin\Release\LogFileMgr.pdb
-C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\Utils\LogFileMgr\obj\Release\LogFileMgr.dll
-C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\Utils\LogFileMgr\obj\Release\LogFileMgr.pdb
-C:\Users\RobertL\Documents\Nuevo\Software\Projects\SprintCiberFileMgr\Utils\LogFileMgr\bin\Release\LogFileMgr.dll
-C:\Users\RobertL\Documents\Nuevo\Software\Projects\SprintCiberFileMgr\Utils\LogFileMgr\bin\Release\LogFileMgr.pdb
-C:\Users\RobertL\Documents\Nuevo\Software\Projects\SprintCiberFileMgr\Utils\LogFileMgr\obj\Release\LogFileMgr.csprojResolveAssemblyReference.cache
-C:\Users\RobertL\Documents\Nuevo\Software\Projects\SprintCiberFileMgr\Utils\LogFileMgr\obj\Release\LogFileMgr.dll
-C:\Users\RobertL\Documents\Nuevo\Software\Projects\SprintCiberFileMgr\Utils\LogFileMgr\obj\Release\LogFileMgr.pdb

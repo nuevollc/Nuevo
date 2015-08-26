@@ -1,7 +1,0 @@
-C:\Users\RobertL\Documents\Nuevo\Software\Projects\Reporting\BroadsoftXSITestApp\XSITestMgr\bin\Debug\XSITestMgr.dll
-C:\Users\RobertL\Documents\Nuevo\Software\Projects\Reporting\BroadsoftXSITestApp\XSITestMgr\bin\Debug\XSITestMgr.pdb
-C:\Users\RobertL\Documents\Nuevo\Software\Projects\Reporting\BroadsoftXSITestApp\XSITestMgr\bin\Debug\LogFileMgr.dll
-C:\Users\RobertL\Documents\Nuevo\Software\Projects\Reporting\BroadsoftXSITestApp\XSITestMgr\bin\Debug\LogFileMgr.pdb
-C:\Users\RobertL\Documents\Nuevo\Software\Projects\Reporting\BroadsoftXSITestApp\XSITestMgr\obj\Debug\XSITestMgr.csprojResolveAssemblyReference.cache
-C:\Users\RobertL\Documents\Nuevo\Software\Projects\Reporting\BroadsoftXSITestApp\XSITestMgr\obj\Debug\XSITestMgr.dll
-C:\Users\RobertL\Documents\Nuevo\Software\Projects\Reporting\BroadsoftXSITestApp\XSITestMgr\obj\Debug\XSITestMgr.pdb

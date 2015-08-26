@@ -1,7 +1,0 @@
-C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\AMSSftpMgr\AMSDbMgr\bin\Debug\AMSDbMgr.dll
-C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\AMSSftpMgr\AMSDbMgr\bin\Debug\AMSDbMgr.pdb
-C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\AMSSftpMgr\AMSDbMgr\bin\Debug\LogFileMgr.dll
-C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\AMSSftpMgr\AMSDbMgr\bin\Debug\LogFileMgr.pdb
-C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\AMSSftpMgr\AMSDbMgr\obj\Debug\AMSDbMgr.csprojResolveAssemblyReference.cache
-C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\AMSSftpMgr\AMSDbMgr\obj\Debug\AMSDbMgr.dll
-C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\AMSSftpMgr\AMSDbMgr\obj\Debug\AMSDbMgr.pdb

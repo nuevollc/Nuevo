@@ -1,9 +1,0 @@
-D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\VoiceMailProvisioning\VoiceMailProvisioningTestApp\obj\Debug\ResolveAssemblyReference.cache
-D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\VoiceMailProvisioning\VoiceMailProvisioningTestApp\obj\Debug\VoiceMailProvisioningTestApp.Form1.resources
-D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\VoiceMailProvisioning\VoiceMailProvisioningTestApp\obj\Debug\VoiceMailProvisioningTestApp.Properties.Resources.resources
-D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\VoiceMailProvisioning\VoiceMailProvisioningTestApp\obj\Debug\VoiceMailProvisioningTestApp.csproj.GenerateResource.Cache
-D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\VoiceMailProvisioning\VoiceMailProvisioningTestApp\bin\Debug\VoiceMailProvisioningTestApp.exe.config
-D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\VoiceMailProvisioning\VoiceMailProvisioningTestApp\bin\Debug\VoiceMailProvisioningTestApp.exe
-D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\VoiceMailProvisioning\VoiceMailProvisioningTestApp\bin\Debug\VoiceMailProvisioningTestApp.pdb
-D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\VoiceMailProvisioning\VoiceMailProvisioningTestApp\obj\Debug\VoiceMailProvisioningTestApp.exe
-D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\VoiceMailProvisioning\VoiceMailProvisioningTestApp\obj\Debug\VoiceMailProvisioningTestApp.pdb

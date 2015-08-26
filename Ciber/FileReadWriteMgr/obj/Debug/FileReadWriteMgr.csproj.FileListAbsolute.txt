@@ -1,7 +1,0 @@
-D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Ciber\FileReadWriteMgr\obj\Debug\ResolveAssemblyReference.cache
-D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Ciber\FileReadWriteMgr\bin\Debug\FileReadWriteMgr.dll
-D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Ciber\FileReadWriteMgr\bin\Debug\FileReadWriteMgr.pdb
-D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Ciber\FileReadWriteMgr\bin\Debug\FileWriter.dll
-D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Ciber\FileReadWriteMgr\bin\Debug\FileWriter.pdb
-D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Ciber\FileReadWriteMgr\obj\Debug\FileReadWriteMgr.dll
-D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Ciber\FileReadWriteMgr\obj\Debug\FileReadWriteMgr.pdb

@@ -1,9 +1,0 @@
-D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\AMS\AMSRecord\bin\Debug\AMSRecord.dll
-D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\AMS\AMSRecord\bin\Debug\AMSRecord.pdb
-D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\AMS\AMSRecord\obj\Debug\ResolveAssemblyReference.cache
-D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\AMS\AMSRecord\obj\Debug\AMSRecord.dll
-D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\AMS\AMSRecord\obj\Debug\AMSRecord.pdb
-C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\AMS\AMSRecord\bin\Debug\AMSRecord.dll
-C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\AMS\AMSRecord\bin\Debug\AMSRecord.pdb
-C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\AMS\AMSRecord\obj\Debug\AMSRecord.dll
-C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\AMS\AMSRecord\obj\Debug\AMSRecord.pdb

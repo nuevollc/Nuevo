@@ -1,7 +1,0 @@
-C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\FraudDetector\IPDR_FraudDetector\IPDR_FraudDetector\bin\Debug\IPDR_FraudDetector.dll
-C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\FraudDetector\IPDR_FraudDetector\IPDR_FraudDetector\bin\Debug\IPDR_FraudDetector.pdb
-C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\FraudDetector\IPDR_FraudDetector\IPDR_FraudDetector\bin\Debug\LogFileMgr.dll
-C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\FraudDetector\IPDR_FraudDetector\IPDR_FraudDetector\bin\Debug\LogFileMgr.pdb
-C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\FraudDetector\IPDR_FraudDetector\IPDR_FraudDetector\obj\Debug\IPDR_FraudDetector.csprojResolveAssemblyReference.cache
-C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\FraudDetector\IPDR_FraudDetector\IPDR_FraudDetector\obj\Debug\IPDR_FraudDetector.dll
-C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\FraudDetector\IPDR_FraudDetector\IPDR_FraudDetector\obj\Debug\IPDR_FraudDetector.pdb

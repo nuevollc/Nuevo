@@ -1,4 +1,0 @@
-C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\FtpLibSource\trunk\bin\Debug\ftplib.dll
-C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\FtpLibSource\trunk\bin\Debug\ftplib.pdb
-C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\FtpLibSource\trunk\obj\Debug\ftplib.dll
-C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\FtpLibSource\trunk\obj\Debug\ftplib.pdb

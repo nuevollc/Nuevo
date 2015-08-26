@@ -1,9 +1,0 @@
-C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
-C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
-C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\ClassLibrary1\ClassLibrary1\bin\Debug\Tamir.SharpSsh.dll
-C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\ClassLibrary1\ClassLibrary1\bin\Debug\DiffieHellman.dll
-C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\ClassLibrary1\ClassLibrary1\bin\Debug\Tamir.SharpSsh.pdb
-C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\ClassLibrary1\ClassLibrary1\bin\Debug\DiffieHellman.pdb
-C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\ClassLibrary1\ClassLibrary1\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
-C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

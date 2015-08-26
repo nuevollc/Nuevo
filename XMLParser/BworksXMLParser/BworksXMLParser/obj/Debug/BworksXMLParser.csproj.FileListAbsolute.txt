@@ -1,5 +1,0 @@
-D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\XMLParser\BworksXMLParser\BworksXMLParser\bin\Debug\BworksXMLParser.dll
-D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\XMLParser\BworksXMLParser\BworksXMLParser\bin\Debug\BworksXMLParser.pdb
-D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\XMLParser\BworksXMLParser\BworksXMLParser\obj\Debug\ResolveAssemblyReference.cache
-D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\XMLParser\BworksXMLParser\BworksXMLParser\obj\Debug\BworksXMLParser.dll
-D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\XMLParser\BworksXMLParser\BworksXMLParser\obj\Debug\BworksXMLParser.pdb

@@ -1,9 +1,0 @@
-D:\Temp\Blog\SharpSSH\SharpSSH-1.1.1.13.src\SharepSSHTest\bin\Debug\SharepSSHTest.exe
-D:\Temp\Blog\SharpSSH\SharpSSH-1.1.1.13.src\SharepSSHTest\bin\Debug\SharepSSHTest.pdb
-D:\Temp\Blog\SharpSSH\SharpSSH-1.1.1.13.src\SharepSSHTest\bin\Debug\DiffieHellman.dll
-D:\Temp\Blog\SharpSSH\SharpSSH-1.1.1.13.src\SharepSSHTest\bin\Debug\Tamir.SharpSsh.dll
-D:\Temp\Blog\SharpSSH\SharpSSH-1.1.1.13.src\SharepSSHTest\bin\Debug\DiffieHellman.pdb
-D:\Temp\Blog\SharpSSH\SharpSSH-1.1.1.13.src\SharepSSHTest\bin\Debug\Tamir.SharpSsh.pdb
-D:\Temp\Blog\SharpSSH\SharpSSH-1.1.1.13.src\SharepSSHTest\obj\Debug\ResolveAssemblyReference.cache
-D:\Temp\Blog\SharpSSH\SharpSSH-1.1.1.13.src\SharepSSHTest\obj\Debug\SharepSSHTest.exe
-D:\Temp\Blog\SharpSSH\SharpSSH-1.1.1.13.src\SharepSSHTest\obj\Debug\SharepSSHTest.pdb

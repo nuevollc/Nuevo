@@ -1,3 +1,0 @@
-D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Provisioning\BworksProvisioning\BworksProvisioning\obj\Debug\BworksProvisioning.dll
-D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Provisioning\BworksProvisioning\BworksProvisioning\obj\Debug\BworksProvisioning.pdb
-D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Provisioning\BworksProvisioning\BworksProvisioning\obj\Debug\ResolveAssemblyReference.cache

@@ -1,2 +1,0 @@
-LongDistanceMins:: 0
-LongDistanceMins:: 0
