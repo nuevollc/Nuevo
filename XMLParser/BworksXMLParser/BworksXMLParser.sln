@@ -1,6 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BworksXMLParser", "BworksXMLParser\BworksXMLParser.csproj", "{9A0B9DE5-21EC-4282-B5ED-ADB95BE1F8D9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryTestApp", "..\InventoryTestApp\InventoryTestApp\InventoryTestApp.csproj", "{B8747A45-0FBD-4D45-92E5-D87BD3B16CCF}"

@@ -1,12 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Collections; 
 using System.Data;
-using TruMobility.Reporting.CDR;
-using TruMobility.Utils.Logging;
 
 namespace TruMobility.Reporting.CDR.Dept
 {

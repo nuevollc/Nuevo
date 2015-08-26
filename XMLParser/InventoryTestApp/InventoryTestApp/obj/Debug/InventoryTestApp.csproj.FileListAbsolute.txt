@@ -11,3 +11,6 @@ D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\XM
 D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\XMLParser\InventoryTestApp\InventoryTestApp\obj\Debug\InventoryTestApp.pdb
 D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\XMLParser\InventoryTestApp\InventoryTestApp\bin\Debug\TechDataSheetReader.dll
 D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\XMLParser\InventoryTestApp\InventoryTestApp\bin\Debug\TechDataSheetReader.pdb
+C:\Users\RobertL\Documents\GitHub\Nuevo\XMLParser\InventoryTestApp\InventoryTestApp\bin\Debug\InventoryTestApp.exe.config
+C:\Users\RobertL\Documents\GitHub\Nuevo\XMLParser\InventoryTestApp\InventoryTestApp\obj\Debug\InventoryTestApp.exe
+C:\Users\RobertL\Documents\GitHub\Nuevo\XMLParser\InventoryTestApp\InventoryTestApp\obj\Debug\InventoryTestApp.pdb

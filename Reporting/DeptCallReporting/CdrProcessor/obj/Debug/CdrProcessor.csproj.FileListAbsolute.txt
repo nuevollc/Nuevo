@@ -34,3 +34,12 @@ C:\Users\RobertL\Documents\Nuevo\Software\Projects\Reporting\DeptCallReporting\C
 C:\Users\RobertL\Documents\Nuevo\Software\Projects\Reporting\DeptCallReporting\CdrProcessor\obj\Debug\CdrProcessor.csprojResolveAssemblyReference.cache
 C:\Users\RobertL\Documents\Nuevo\Software\Projects\Reporting\DeptCallReporting\CdrProcessor\obj\Debug\CdrProcessor.dll
 C:\Users\RobertL\Documents\Nuevo\Software\Projects\Reporting\DeptCallReporting\CdrProcessor\obj\Debug\CdrProcessor.pdb
+C:\Users\RobertL\Documents\GitHub\Nuevo\Reporting\DeptCallReporting\CdrProcessor\bin\Debug\CdrProcessor.dll
+C:\Users\RobertL\Documents\GitHub\Nuevo\Reporting\DeptCallReporting\CdrProcessor\bin\Debug\CdrProcessor.pdb
+C:\Users\RobertL\Documents\GitHub\Nuevo\Reporting\DeptCallReporting\CdrProcessor\bin\Debug\LogFileMgr.dll
+C:\Users\RobertL\Documents\GitHub\Nuevo\Reporting\DeptCallReporting\CdrProcessor\bin\Debug\Reports.dll
+C:\Users\RobertL\Documents\GitHub\Nuevo\Reporting\DeptCallReporting\CdrProcessor\bin\Debug\LogFileMgr.pdb
+C:\Users\RobertL\Documents\GitHub\Nuevo\Reporting\DeptCallReporting\CdrProcessor\bin\Debug\Reports.pdb
+C:\Users\RobertL\Documents\GitHub\Nuevo\Reporting\DeptCallReporting\CdrProcessor\obj\Debug\CdrProcessor.csprojResolveAssemblyReference.cache
+C:\Users\RobertL\Documents\GitHub\Nuevo\Reporting\DeptCallReporting\CdrProcessor\obj\Debug\CdrProcessor.dll
+C:\Users\RobertL\Documents\GitHub\Nuevo\Reporting\DeptCallReporting\CdrProcessor\obj\Debug\CdrProcessor.pdb
