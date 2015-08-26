@@ -1,11 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Diagnostics;
 using System.Configuration;
-using System.IO;
-
 using System.Data.SqlClient;
 using System.Data;
 using Strata8.Wireless.Cdr.Rating;// ciber record code

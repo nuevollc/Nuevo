@@ -22,3 +22,8 @@ C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\
 C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\CiberRecords\CiberRecords\obj\Debug\CiberRecords.csprojResolveAssemblyReference.cache
 C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\CiberRecords\CiberRecords\obj\Debug\CiberRecords.dll
 C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\CiberRecords\CiberRecords\obj\Debug\CiberRecords.pdb
+C:\Users\RobertL\Documents\GitHub\Nuevo\Ciber\CiberRecords\CiberRecords\bin\Debug\CiberRecords.dll
+C:\Users\RobertL\Documents\GitHub\Nuevo\Ciber\CiberRecords\CiberRecords\bin\Debug\CiberRecords.pdb
+C:\Users\RobertL\Documents\GitHub\Nuevo\Ciber\CiberRecords\CiberRecords\obj\Debug\CiberRecords.csprojResolveAssemblyReference.cache
+C:\Users\RobertL\Documents\GitHub\Nuevo\Ciber\CiberRecords\CiberRecords\obj\Debug\CiberRecords.dll
+C:\Users\RobertL\Documents\GitHub\Nuevo\Ciber\CiberRecords\CiberRecords\obj\Debug\CiberRecords.pdb

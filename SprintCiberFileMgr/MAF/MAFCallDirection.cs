@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-
-namespace TruMobility.Network.Services
+﻿namespace TruMobility.Network.Services
 {
     public enum MAFCallDirection
     {

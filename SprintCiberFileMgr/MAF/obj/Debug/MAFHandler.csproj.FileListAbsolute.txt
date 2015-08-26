@@ -12,3 +12,10 @@ D:\GoogleDrive\Google Drive\Nuevo\Software\VisualStudio2010\Projects\SprintCiber
 D:\GoogleDrive\Google Drive\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\MAF\obj\Debug\MAFHandler.csprojResolveAssemblyReference.cache
 D:\GoogleDrive\Google Drive\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\MAF\obj\Debug\SprintCiberFileMgr.dll
 D:\GoogleDrive\Google Drive\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\MAF\obj\Debug\SprintCiberFileMgr.pdb
+C:\Users\RobertL\Documents\GitHub\Nuevo\SprintCiberFileMgr\MAF\bin\Debug\SprintCiberFileMgr.dll
+C:\Users\RobertL\Documents\GitHub\Nuevo\SprintCiberFileMgr\MAF\bin\Debug\SprintCiberFileMgr.pdb
+C:\Users\RobertL\Documents\GitHub\Nuevo\SprintCiberFileMgr\MAF\bin\Debug\CiberRecords.dll
+C:\Users\RobertL\Documents\GitHub\Nuevo\SprintCiberFileMgr\MAF\bin\Debug\CiberRecords.pdb
+C:\Users\RobertL\Documents\GitHub\Nuevo\SprintCiberFileMgr\MAF\obj\Debug\MAFHandler.csprojResolveAssemblyReference.cache
+C:\Users\RobertL\Documents\GitHub\Nuevo\SprintCiberFileMgr\MAF\obj\Debug\SprintCiberFileMgr.dll
+C:\Users\RobertL\Documents\GitHub\Nuevo\SprintCiberFileMgr\MAF\obj\Debug\SprintCiberFileMgr.pdb
