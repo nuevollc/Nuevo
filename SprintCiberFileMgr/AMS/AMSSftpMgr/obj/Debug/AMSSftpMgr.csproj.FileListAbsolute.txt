@@ -1,0 +1,30 @@
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\AMS\AMSSftpMgr\bin\Debug\AMSSftpMgr.dll
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\AMS\AMSSftpMgr\bin\Debug\AMSSftpMgr.pdb
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\AMS\AMSSftpMgr\bin\Debug\AMSHandler.dll
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\AMS\AMSSftpMgr\bin\Debug\LogFileMgr.dll
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\AMS\AMSSftpMgr\bin\Debug\Tamir.SharpSsh.dll
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\AMS\AMSSftpMgr\bin\Debug\AMSRecord.dll
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\AMS\AMSSftpMgr\bin\Debug\DiffieHellman.dll
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\AMS\AMSSftpMgr\bin\Debug\LogFileMgr.pdb
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\AMS\AMSSftpMgr\bin\Debug\AMSHandler.pdb
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\AMS\AMSSftpMgr\bin\Debug\Tamir.SharpSsh.pdb
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\AMS\AMSSftpMgr\bin\Debug\AMSRecord.pdb
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\AMS\AMSSftpMgr\bin\Debug\DiffieHellman.pdb
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\AMS\AMSSftpMgr\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\AMS\AMSSftpMgr\obj\Debug\AMSSftpMgr.dll
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\AMS\AMSSftpMgr\obj\Debug\AMSSftpMgr.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\AMS\AMSSftpMgr\bin\Debug\AMSSftpMgr.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\AMS\AMSSftpMgr\bin\Debug\AMSSftpMgr.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\AMS\AMSSftpMgr\bin\Debug\AMSHandler.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\AMS\AMSSftpMgr\bin\Debug\LogFileMgr.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\AMS\AMSSftpMgr\bin\Debug\Tamir.SharpSsh.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\AMS\AMSSftpMgr\bin\Debug\AMSRecord.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\AMS\AMSSftpMgr\bin\Debug\DiffieHellman.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\AMS\AMSSftpMgr\bin\Debug\LogFileMgr.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\AMS\AMSSftpMgr\bin\Debug\AMSHandler.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\AMS\AMSSftpMgr\bin\Debug\Tamir.SharpSsh.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\AMS\AMSSftpMgr\bin\Debug\AMSRecord.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\AMS\AMSSftpMgr\bin\Debug\DiffieHellman.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\AMS\AMSSftpMgr\obj\Debug\AMSSftpMgr.csprojResolveAssemblyReference.cache
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\AMS\AMSSftpMgr\obj\Debug\AMSSftpMgr.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\AMS\AMSSftpMgr\obj\Debug\AMSSftpMgr.pdb

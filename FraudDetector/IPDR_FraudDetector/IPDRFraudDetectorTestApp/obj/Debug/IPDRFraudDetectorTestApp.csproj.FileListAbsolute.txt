@@ -1,0 +1,13 @@
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\FraudDetector\IPDR_FraudDetector\IPDRFraudDetectorTestApp\bin\Debug\IPDRFraudDetectorTestApp.exe.config
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\FraudDetector\IPDR_FraudDetector\IPDRFraudDetectorTestApp\bin\Debug\IPDRFraudDetectorTestApp.exe
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\FraudDetector\IPDR_FraudDetector\IPDRFraudDetectorTestApp\bin\Debug\IPDRFraudDetectorTestApp.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\FraudDetector\IPDR_FraudDetector\IPDRFraudDetectorTestApp\bin\Debug\IPDR_FraudDetector.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\FraudDetector\IPDR_FraudDetector\IPDRFraudDetectorTestApp\bin\Debug\LogFileMgr.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\FraudDetector\IPDR_FraudDetector\IPDRFraudDetectorTestApp\bin\Debug\IPDR_FraudDetector.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\FraudDetector\IPDR_FraudDetector\IPDRFraudDetectorTestApp\bin\Debug\LogFileMgr.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\FraudDetector\IPDR_FraudDetector\IPDRFraudDetectorTestApp\obj\Debug\IPDRFraudDetectorTestApp.csprojResolveAssemblyReference.cache
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\FraudDetector\IPDR_FraudDetector\IPDRFraudDetectorTestApp\obj\Debug\TruMobility.Services.Fraud.Form1.resources
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\FraudDetector\IPDR_FraudDetector\IPDRFraudDetectorTestApp\obj\Debug\IPDRFraudDetectorTestApp.Properties.Resources.resources
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\FraudDetector\IPDR_FraudDetector\IPDRFraudDetectorTestApp\obj\Debug\IPDRFraudDetectorTestApp.csproj.GenerateResource.Cache
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\FraudDetector\IPDR_FraudDetector\IPDRFraudDetectorTestApp\obj\Debug\IPDRFraudDetectorTestApp.exe
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\FraudDetector\IPDR_FraudDetector\IPDRFraudDetectorTestApp\obj\Debug\IPDRFraudDetectorTestApp.pdb

@@ -1,0 +1,5 @@
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\S8GroupCallReportSvc\FtpTest.cs\bin\Debug\FtpTest.cs.dll
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\S8GroupCallReportSvc\FtpTest.cs\bin\Debug\FtpTest.cs.pdb
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\S8GroupCallReportSvc\FtpTest.cs\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\S8GroupCallReportSvc\FtpTest.cs\obj\Debug\FtpTest.cs.dll
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\S8GroupCallReportSvc\FtpTest.cs\obj\Debug\FtpTest.cs.pdb

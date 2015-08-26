@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <EnableENC>False</EnableENC>
+    <ProjectView>ProjectFiles</ProjectView>
+    <ServerPort>8035</ServerPort>
+    <EncryptedPublishConnectionString>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAd3S0DUzz6UarVU3ELFTPQAAAAAACAAAAAAAQZgAAAAEAACAAAABZ2OIiXENy+PDFpN9cHoglTb0QOaY8/uXoEAvcwk+uNgAAAAAOgAAAAAIAACAAAABx8koIYKbDbEYICnMKGdPmP480gCTByW5BrMY3P3EFrMAAAADgOLDdhEOjSOPBSqYeJjIL3lEOwDJiG0KV4kvnD3PuasGjMXSBcC+c3YVC2vWLbzd5EjzTASxdcp5xXK+fdyfx+ddlypQ7tYKjJ97Q1vi4tDifC2I9gTh3JV6vFP89qWl+YtCfjtt/tqyt68wgSAJlLNPtsZ6KemCZymd0RhOD5NPBl1jXT1gS+WFbvX1lCav2iglqPVrSMjyV8sybV1nVHdUwxxhffSGfoQI0NKhZJk/9HGkA50qh5qdaAUxiIoFAAAAAtPS65t6l0bXW8uGjM3/ZXjgOHePZs7qiLCHBGfKJ7UiUFfiFazkCle6sgvf8RTlgTwgPC09gdE7XDLacthDeZw==</EncryptedPublishConnectionString>
+    <EncryptedPublishSchemaConnectionString />
+    <EncryptedClientConnectionString>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAd3S0DUzz6UarVU3ELFTPQAAAAAACAAAAAAAQZgAAAAEAACAAAADL+7p8fv/vVrc8nTLt6L68oG4R0UovyMor62qOVzLbcAAAAAAOgAAAAAIAACAAAAD28RIIfheejD/mO89Z8iJVXfNtPqRB0TTI2bhfCz00phABAACLZOOP9BAKpLsci0pmlWfZNFTBMHADoXL1MmEaYZAGnTfNa83P0CsOq/fa6eygJzHMyHjpjRafNM0xagI1sRjCd8/UEL0GVBixaInHj7YWQ/JX4tBYAX7cCco90UPYPN8a8enIRXL+jOIWOFhtHpInuW6BIVA26LSvazs4PIa4YpZETnzZrYRcSfAvomOeG6x12tA7UJod45I57Jgu1mZKGREGYTxSPXnVUnFClGB7HiJu8tjxZDda7566pWu3g2hlFf1mH2ahXO4XAnzuA0ofMvl9b8h78yvdti5pm7XHjPVvXo/DJbA5p5QBIrKyO1YFZpl46Aagbxe5vQm3U9Dg4S73YqtiV+oQPZpnnMZWqEAAAAB0gfQrLZHVmJ7/fLIy7MToSHgufN4NKNWUCwON6IGR6pNS3EE+6oQ4DQ4FtA8OPGr/DQZZuGeO3Q3Id7kWxOIa</EncryptedClientConnectionString>
+    <EncryptedAdministratorPassword />
+    <PublishUserName>RHERNANDEZ-PC\Administrator</PublishUserName>
+    <EncryptedPublishUserPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAd3S0DUzz6UarVU3ELFTPQAAAAAACAAAAAAAQZgAAAAEAACAAAACVVWJzwkTbINACFEj474iwSG1KI7750hGjdukupWMzeQAAAAAOgAAAAAIAACAAAABSIXvDZXKBBXH2anN3r/0aaNA/Pux5HQNcks2EDAr0ciAAAABndAV+uvX0RjQlt4JO7aPZGTdr7fijxCpn65RXzsnvd0AAAACQoIyAYQhJo6045iUg80j5St++ie8iOnTws84OjCZTymQtKmuEwO+CnjrzoRtlZFKYhRKHFFGyOU6tCVZwoC0E</EncryptedPublishUserPassword>
+    <AzureSubscriptionId>00000000-0000-0000-0000-000000000000</AzureSubscriptionId>
+    <AzureManagementThumbprint />
+    <SchemaManagementSchemaBuildState>0</SchemaManagementSchemaBuildState>
+    <SchemaManagementLastModelWriteTime>634969121324210810</SchemaManagementLastModelWriteTime>
+    <Name>WirelessUsers.user</Name>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,12 @@
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Test\TestObject.cs\obj\Release\ResolveAssemblyReference.cache
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Test\TestObject.cs\bin\Release\TestObject.cs.dll
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Test\TestObject.cs\bin\Release\TestObject.cs.pdb
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Test\TestObject.cs\bin\Release\Tamir.SharpSSH.dll
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Test\TestObject.cs\bin\Release\Org.Mentalis.Security.dll
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Test\TestObject.cs\bin\Release\DiffieHellman.dll
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Test\TestObject.cs\obj\Release\TestObject.cs.dll
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Test\TestObject.cs\obj\Release\TestObject.cs.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Test\TestObject.cs\bin\Release\TestObject.cs.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Test\TestObject.cs\bin\Release\TestObject.cs.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Test\TestObject.cs\obj\Release\TestObject.cs.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Test\TestObject.cs\obj\Release\TestObject.cs.pdb

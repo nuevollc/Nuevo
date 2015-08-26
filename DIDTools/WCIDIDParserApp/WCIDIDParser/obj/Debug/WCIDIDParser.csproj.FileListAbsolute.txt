@@ -1,0 +1,6 @@
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\DIDTools\WCIDIDParserApp\WCIDIDParser\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\DIDTools\WCIDIDParserApp\WCIDIDParser\bin\Debug\WCIDIDParser.dll.config
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\DIDTools\WCIDIDParserApp\WCIDIDParser\bin\Debug\WCIDIDParser.dll
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\DIDTools\WCIDIDParserApp\WCIDIDParser\bin\Debug\WCIDIDParser.pdb
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\DIDTools\WCIDIDParserApp\WCIDIDParser\obj\Debug\WCIDIDParser.dll
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\DIDTools\WCIDIDParserApp\WCIDIDParser\obj\Debug\WCIDIDParser.pdb

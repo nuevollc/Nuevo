@@ -1,0 +1,67 @@
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\S8GroupCallReportSvc\FtpTest.cs\bin\Debug\FtpTest.cs.dll
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\S8GroupCallReportSvc\FtpTest.cs\bin\Debug\FtpTest.cs.pdb
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\S8GroupCallReportSvc\FtpTest.cs\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\S8GroupCallReportSvc\FtpTest.cs\obj\Debug\FtpTest.cs.dll
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\S8GroupCallReportSvc\FtpTest.cs\obj\Debug\FtpTest.cs.pdb
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\S8GroupCallReportSvc\FtpTest.cs\bin\Debug\OmcCdr.dll
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\S8GroupCallReportSvc\FtpTest.cs\bin\Debug\CiberRecords.dll
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\S8GroupCallReportSvc\FtpTest.cs\bin\Debug\TechDataSheetReader.dll
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\S8GroupCallReportSvc\FtpTest.cs\bin\Debug\CiberRecords.pdb
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\S8GroupCallReportSvc\FtpTest.cs\bin\Debug\OmcCdr.pdb
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\S8GroupCallReportSvc\FtpTest.cs\bin\Debug\TechDataSheetReader.pdb
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Ciber\OmcCdr\FtpTest.cs\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Ciber\OmcCdr\FtpTest.cs\bin\Debug\FtpTest.cs.dll
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Ciber\OmcCdr\FtpTest.cs\bin\Debug\FtpTest.cs.pdb
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Ciber\OmcCdr\FtpTest.cs\bin\Debug\OmcCdr.dll
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Ciber\OmcCdr\FtpTest.cs\bin\Debug\CdrCiberDbMgr.dll
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Ciber\OmcCdr\FtpTest.cs\bin\Debug\FileWriter.dll
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Ciber\OmcCdr\FtpTest.cs\bin\Debug\CdrCiberDbMgr.pdb
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Ciber\OmcCdr\FtpTest.cs\bin\Debug\OmcCdr.pdb
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Ciber\OmcCdr\FtpTest.cs\bin\Debug\FileWriter.pdb
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Ciber\OmcCdr\FtpTest.cs\obj\Debug\FtpTest.cs.dll
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Ciber\OmcCdr\FtpTest.cs\obj\Debug\FtpTest.cs.pdb
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\OmcCdr\FtpTest.cs\bin\Debug\FtpTest.cs.dll
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\OmcCdr\FtpTest.cs\bin\Debug\FtpTest.cs.pdb
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\OmcCdr\FtpTest.cs\bin\Debug\OmcCdr.dll
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\OmcCdr\FtpTest.cs\bin\Debug\CdrCiberDbMgr.dll
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\OmcCdr\FtpTest.cs\bin\Debug\CiberRecords.dll
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\OmcCdr\FtpTest.cs\bin\Debug\TechDataSheetReader.dll
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\OmcCdr\FtpTest.cs\bin\Debug\FileWriter.dll
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\OmcCdr\FtpTest.cs\bin\Debug\OmcCdr.pdb
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\OmcCdr\FtpTest.cs\bin\Debug\CdrCiberDbMgr.pdb
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\OmcCdr\FtpTest.cs\bin\Debug\CiberRecords.pdb
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\OmcCdr\FtpTest.cs\bin\Debug\TechDataSheetReader.pdb
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\OmcCdr\FtpTest.cs\bin\Debug\FileWriter.pdb
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\OmcCdr\FtpTest.cs\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\OmcCdr\FtpTest.cs\obj\Debug\FtpTest.cs.dll
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\OmcCdr\FtpTest.cs\obj\Debug\FtpTest.cs.pdb
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCdr\FtpTest.cs\bin\Debug\FtpTest.cs.dll
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCdr\FtpTest.cs\bin\Debug\FtpTest.cs.pdb
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCdr\FtpTest.cs\bin\Debug\OmcCdr.dll
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCdr\FtpTest.cs\bin\Debug\CdrCiberDbMgr.dll
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCdr\FtpTest.cs\bin\Debug\CiberRecords.dll
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCdr\FtpTest.cs\bin\Debug\FileWriter.dll
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCdr\FtpTest.cs\bin\Debug\TechDataSheetReader.dll
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCdr\FtpTest.cs\bin\Debug\OmcCdr.pdb
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCdr\FtpTest.cs\bin\Debug\CdrCiberDbMgr.pdb
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCdr\FtpTest.cs\bin\Debug\CiberRecords.pdb
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCdr\FtpTest.cs\bin\Debug\FileWriter.pdb
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCdr\FtpTest.cs\bin\Debug\TechDataSheetReader.pdb
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCdr\FtpTest.cs\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCdr\FtpTest.cs\obj\Debug\FtpTest.cs.dll
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCdr\FtpTest.cs\obj\Debug\FtpTest.cs.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCdr\FtpTest.cs\obj\Debug\OmcFtp.csprojResolveAssemblyReference.cache
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCdr\FtpTest.cs\bin\Debug\FtpTest.cs.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCdr\FtpTest.cs\bin\Debug\FtpTest.cs.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCdr\FtpTest.cs\bin\Debug\FileWriter.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCdr\FtpTest.cs\bin\Debug\OmcCdr.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCdr\FtpTest.cs\bin\Debug\CdrCiberDbMgr.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCdr\FtpTest.cs\bin\Debug\CiberRecords.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCdr\FtpTest.cs\bin\Debug\TechDataSheetReader.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCdr\FtpTest.cs\bin\Debug\FileWriter.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCdr\FtpTest.cs\bin\Debug\OmcCdr.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCdr\FtpTest.cs\bin\Debug\CdrCiberDbMgr.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCdr\FtpTest.cs\bin\Debug\CiberRecords.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCdr\FtpTest.cs\bin\Debug\TechDataSheetReader.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCdr\FtpTest.cs\obj\Debug\FtpTest.cs.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCdr\FtpTest.cs\obj\Debug\FtpTest.cs.pdb

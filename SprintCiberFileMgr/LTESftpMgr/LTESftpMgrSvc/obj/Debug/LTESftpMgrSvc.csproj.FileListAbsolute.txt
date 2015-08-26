@@ -1,0 +1,16 @@
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\LTESftpMgr\LTESftpMgrSvc\bin\Debug\LTESftpMgrSvc.exe.config
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\LTESftpMgr\LTESftpMgrSvc\bin\Debug\LTESftpMgrSvc.exe
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\LTESftpMgr\LTESftpMgrSvc\bin\Debug\LTESftpMgrSvc.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\LTESftpMgr\LTESftpMgrSvc\bin\Debug\LTESftpMgr.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\LTESftpMgr\LTESftpMgrSvc\bin\Debug\KellermanSoftware.NET-SFTP-Library.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\LTESftpMgr\LTESftpMgrSvc\bin\Debug\LTEDbMgr.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\LTESftpMgr\LTESftpMgrSvc\bin\Debug\LogFileMgr.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\LTESftpMgr\LTESftpMgrSvc\bin\Debug\LTESftpMgr.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\LTESftpMgr\LTESftpMgrSvc\bin\Debug\KellermanSoftware.NET-SFTP-Library.xml
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\LTESftpMgr\LTESftpMgrSvc\bin\Debug\LTEDbMgr.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\LTESftpMgr\LTESftpMgrSvc\bin\Debug\LogFileMgr.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\LTESftpMgr\LTESftpMgrSvc\obj\Debug\LTESftpMgrSvc.csprojResolveAssemblyReference.cache
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\LTESftpMgr\LTESftpMgrSvc\obj\Debug\LTESftpMgrSvc.ProjectInstaller.resources
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\LTESftpMgr\LTESftpMgrSvc\obj\Debug\LTESftpMgrSvc.csproj.GenerateResource.Cache
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\LTESftpMgr\LTESftpMgrSvc\obj\Debug\LTESftpMgrSvc.exe
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\LTESftpMgr\LTESftpMgrSvc\obj\Debug\LTESftpMgrSvc.pdb

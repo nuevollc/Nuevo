@@ -1,0 +1,7 @@
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\SharpSSH-1.1.1.13.src\bin\Debug\Tamir.SharpSSH.dll
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\SharpSSH-1.1.1.13.src\bin\Debug\Tamir.SharpSSH.pdb
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\SharpSSH-1.1.1.13.src\SharpSSH\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\SharpSSH-1.1.1.13.src\SharpSSH\obj\Debug\Tamir.SharpSsh.jsch.examples.InputForm.resources
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\SharpSSH-1.1.1.13.src\SharpSSH\obj\Debug\SharpSSH.csproj.GenerateResource.Cache
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\SharpSSH-1.1.1.13.src\SharpSSH\obj\Debug\Tamir.SharpSSH.dll
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\SharpSSH-1.1.1.13.src\SharpSSH\obj\Debug\Tamir.SharpSSH.pdb

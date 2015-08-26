@@ -1,0 +1,5 @@
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Syniverse\FtpHandler\FtpHandler\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Syniverse\FtpHandler\FtpHandler\bin\Debug\FtpHandler.dll
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Syniverse\FtpHandler\FtpHandler\bin\Debug\FtpHandler.pdb
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Syniverse\FtpHandler\FtpHandler\obj\Debug\FtpHandler.dll
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Syniverse\FtpHandler\FtpHandler\obj\Debug\FtpHandler.pdb

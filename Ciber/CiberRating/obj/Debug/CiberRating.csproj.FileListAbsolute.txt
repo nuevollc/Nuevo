@@ -1,0 +1,39 @@
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\CiberRating\bin\Debug\CiberRating.dll
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\CiberRating\bin\Debug\CiberRating.pdb
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\CiberRating\bin\Debug\CdrCiberDbMgr.dll
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\CiberRating\bin\Debug\CiberRecords.dll
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\CiberRating\bin\Debug\FileWriter.dll
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\CiberRating\bin\Debug\TechDataSheetReader.dll
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\CiberRating\bin\Debug\CdrCiberDbMgr.pdb
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\CiberRating\bin\Debug\CiberRecords.pdb
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\CiberRating\bin\Debug\FileWriter.pdb
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\CiberRating\bin\Debug\TechDataSheetReader.pdb
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\CiberRating\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\CiberRating\obj\Debug\CiberRating.dll
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\CiberRating\obj\Debug\CiberRating.pdb
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\CiberRating\bin\Debug\CiberRating.dll
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\CiberRating\bin\Debug\CiberRating.pdb
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\CiberRating\bin\Debug\CdrCiberDbMgr.dll
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\CiberRating\bin\Debug\CiberRecords.dll
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\CiberRating\bin\Debug\FileWriter.dll
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\CiberRating\bin\Debug\TechDataSheetReader.dll
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\CiberRating\bin\Debug\CdrCiberDbMgr.pdb
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\CiberRating\bin\Debug\CiberRecords.pdb
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\CiberRating\bin\Debug\FileWriter.pdb
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\CiberRating\bin\Debug\TechDataSheetReader.pdb
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\CiberRating\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\CiberRating\obj\Debug\CiberRating.dll
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\CiberRating\obj\Debug\CiberRating.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\CiberRating\bin\Debug\CiberRating.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\CiberRating\bin\Debug\CiberRating.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\CiberRating\bin\Debug\CdrCiberDbMgr.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\CiberRating\bin\Debug\CiberRecords.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\CiberRating\bin\Debug\FileWriter.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\CiberRating\bin\Debug\TechDataSheetReader.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\CiberRating\bin\Debug\CdrCiberDbMgr.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\CiberRating\bin\Debug\CiberRecords.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\CiberRating\bin\Debug\FileWriter.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\CiberRating\bin\Debug\TechDataSheetReader.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\CiberRating\obj\Debug\CiberRating.csprojResolveAssemblyReference.cache
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\CiberRating\obj\Debug\CiberRating.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\CiberRating\obj\Debug\CiberRating.pdb

@@ -1,0 +1,13 @@
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\XMLParser\InventoryTestApp\InventoryTestApp\bin\Debug\InventoryTestApp.exe.config
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\XMLParser\InventoryTestApp\InventoryTestApp\bin\Debug\InventoryTestApp.exe
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\XMLParser\InventoryTestApp\InventoryTestApp\bin\Debug\InventoryTestApp.pdb
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\XMLParser\InventoryTestApp\InventoryTestApp\bin\Debug\BworksXMLParser.dll
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\XMLParser\InventoryTestApp\InventoryTestApp\bin\Debug\BworksXMLParser.pdb
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\XMLParser\InventoryTestApp\InventoryTestApp\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\XMLParser\InventoryTestApp\InventoryTestApp\obj\Debug\InventoryTestApp.Form1.resources
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\XMLParser\InventoryTestApp\InventoryTestApp\obj\Debug\InventoryTestApp.Properties.Resources.resources
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\XMLParser\InventoryTestApp\InventoryTestApp\obj\Debug\InventoryTestApp.csproj.GenerateResource.Cache
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\XMLParser\InventoryTestApp\InventoryTestApp\obj\Debug\InventoryTestApp.exe
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\XMLParser\InventoryTestApp\InventoryTestApp\obj\Debug\InventoryTestApp.pdb
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\XMLParser\InventoryTestApp\InventoryTestApp\bin\Debug\TechDataSheetReader.dll
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\XMLParser\InventoryTestApp\InventoryTestApp\bin\Debug\TechDataSheetReader.pdb

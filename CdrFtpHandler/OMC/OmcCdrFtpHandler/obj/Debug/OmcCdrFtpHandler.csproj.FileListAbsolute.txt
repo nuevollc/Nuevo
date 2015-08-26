@@ -1,0 +1,9 @@
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\CdrFtpHandler\OMC\OmcCdrFtpHandler\bin\Debug\OmcCdrFtpHandler.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\CdrFtpHandler\OMC\OmcCdrFtpHandler\bin\Debug\OmcCdrFtpHandler.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\CdrFtpHandler\OMC\OmcCdrFtpHandler\bin\Debug\FileWriter.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\CdrFtpHandler\OMC\OmcCdrFtpHandler\bin\Debug\ftplib.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\CdrFtpHandler\OMC\OmcCdrFtpHandler\bin\Debug\FileWriter.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\CdrFtpHandler\OMC\OmcCdrFtpHandler\bin\Debug\ftplib.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\CdrFtpHandler\OMC\OmcCdrFtpHandler\obj\Debug\OmcCdrFtpHandler.csprojResolveAssemblyReference.cache
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\CdrFtpHandler\OMC\OmcCdrFtpHandler\obj\Debug\OmcCdrFtpHandler.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\CdrFtpHandler\OMC\OmcCdrFtpHandler\obj\Debug\OmcCdrFtpHandler.pdb

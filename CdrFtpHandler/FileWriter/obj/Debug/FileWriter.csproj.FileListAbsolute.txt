@@ -1,0 +1,9 @@
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\CdrFtpHandler\FileWriter\bin\Debug\FileWriter.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\CdrFtpHandler\FileWriter\bin\Debug\FileWriter.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\CdrFtpHandler\FileWriter\obj\Debug\FileWriter.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\CdrFtpHandler\FileWriter\obj\Debug\FileWriter.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\CdrFtpHandler\FileWriter\obj\Debug\FileWriter.csprojResolveAssemblyReference.cache
+F:\BackUpStorage\Nuevo\VisualStudio2010\Projects\CdrFtpHandler\FileWriter\bin\Debug\FileWriter.dll
+F:\BackUpStorage\Nuevo\VisualStudio2010\Projects\CdrFtpHandler\FileWriter\bin\Debug\FileWriter.pdb
+F:\BackUpStorage\Nuevo\VisualStudio2010\Projects\CdrFtpHandler\FileWriter\obj\Debug\FileWriter.dll
+F:\BackUpStorage\Nuevo\VisualStudio2010\Projects\CdrFtpHandler\FileWriter\obj\Debug\FileWriter.pdb

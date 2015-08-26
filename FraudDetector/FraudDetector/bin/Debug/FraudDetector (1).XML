@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FraudDetector</name>
+    </assembly>
+    <members>
+        <member name="T:TruMobility.Services.Fraud.DbInterface">
+            <summary>
+            this needs to be moved into our CDR DB web service interface
+            for now it's here: rlh
+            </summary>
+        </member>
+        <member name="M:TruMobility.Services.Fraud.DbInterface.CountInternationalCalls(System.Double)">
+            <summary>
+            method that simply counts the number of International Calls every 15 mins
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:TruMobility.Services.Fraud.DbInterface.CountAllCalls(System.Double)">
+            <summary>
+            method that simply counts the number of ALL Calls every CDRDelayInterval mins
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:TruMobility.Services.Fraud.FraudDetector">
+            <summary>
+            Fraud Detector object that is used to identify unusual call patterns.
+            This first iteration is used to calculate the total number of calls along
+            with the total number of International calls during a configurable interval.
+            </summary>
+        </member>
+        <member name="M:TruMobility.Services.Fraud.FraudDetector.#ctor">
+            <summary>
+            The fraud detector class is 
+            </summary>
+        </member>
+        <member name="M:TruMobility.Services.Fraud.FraudDetector.GetInternationalCalls">
+            <summary>
+            method to get the international cdr records
+            </summary>
+        </member>
+        <member name="M:TruMobility.Services.Fraud.FraudDetector.GetTotalCalls">
+            <summary>
+            method to get all the calls for this interval
+            </summary>
+        </member>
+        <member name="M:TruMobility.Services.Fraud.FraudDetector.CheckCalls(System.Int32,System.Int32)">
+            <summary>
+            method to apply the rules to detect fraud
+            </summary>
+        </member>
+        <member name="M:TruMobility.Services.Fraud.FraudDetector.SendCallReportNotification(System.Int32,System.Int32,System.String)">
+            <summary>
+            method to send out a CDR report notification
+            </summary>
+            <param name="numInternationalCalls"></param>
+            <param name="totalCalls"></param>
+        </member>
+        <member name="M:TruMobility.Services.Fraud.FraudDetector.ProcessFraudDetectionThread">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:TruMobility.Services.Fraud.FraudDetector.StartProcessing">
+            <summary>
+            main thread to handle fraud detection
+            </summary>
+        </member>
+        <member name="M:TruMobility.Services.Fraud.FraudDetector.StopProcessing">
+            <summary>
+            main thread to handle stopping the fraud detector object
+            </summary>
+        </member>
+    </members>
+</doc>

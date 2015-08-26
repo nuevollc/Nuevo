@@ -1,0 +1,6 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\BworksProvisioning\OCIClient_java\OCIClient\bin\Debug\OCIClient.dll.config
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\BworksProvisioning\OCIClient_java\OCIClient\bin\Debug\OCIClient.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\BworksProvisioning\OCIClient_java\OCIClient\bin\Debug\OCIClient.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\BworksProvisioning\OCIClient_java\OCIClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\BworksProvisioning\OCIClient_java\OCIClient\obj\x86\Debug\OCIClient.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\BworksProvisioning\OCIClient_java\OCIClient\obj\x86\Debug\OCIClient.pdb

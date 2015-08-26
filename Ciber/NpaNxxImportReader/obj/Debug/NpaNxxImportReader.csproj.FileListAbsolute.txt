@@ -1,0 +1,19 @@
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Ciber\NpaNxxImportReader\bin\Debug\NpaNxxImportReader.dll
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Ciber\NpaNxxImportReader\bin\Debug\NpaNxxImportReader.pdb
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Ciber\NpaNxxImportReader\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Ciber\NpaNxxImportReader\obj\Debug\NpaNxxImportReader.dll
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Ciber\NpaNxxImportReader\obj\Debug\NpaNxxImportReader.pdb
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\NpaNxxImportReader\bin\Debug\NpaNxxImportReader.dll
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\NpaNxxImportReader\bin\Debug\NpaNxxImportReader.pdb
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\NpaNxxImportReader\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\NpaNxxImportReader\obj\Debug\NpaNxxImportReader.dll
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\NpaNxxImportReader\obj\Debug\NpaNxxImportReader.pdb
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\NpaNxxImportReader\bin\Debug\NpaNxxImportReader.dll
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\NpaNxxImportReader\bin\Debug\NpaNxxImportReader.pdb
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\NpaNxxImportReader\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\NpaNxxImportReader\obj\Debug\NpaNxxImportReader.dll
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\NpaNxxImportReader\obj\Debug\NpaNxxImportReader.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\NpaNxxImportReader\bin\Debug\NpaNxxImportReader.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\NpaNxxImportReader\bin\Debug\NpaNxxImportReader.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\NpaNxxImportReader\obj\Debug\NpaNxxImportReader.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\NpaNxxImportReader\obj\Debug\NpaNxxImportReader.pdb

@@ -1,0 +1,6 @@
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\FtpClient\source\NET2\bin\Debug\System.Net.FtpClient.XML
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\FtpClient\source\NET2\bin\Debug\System.Net.FtpClient.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\FtpClient\source\NET2\bin\Debug\System.Net.FtpClient.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\FtpClient\source\obj\Debug\System.Net.FtpClient.NET2.csprojResolveAssemblyReference.cache
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\FtpClient\source\obj\Debug\System.Net.FtpClient.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\FtpClient\source\obj\Debug\System.Net.FtpClient.pdb

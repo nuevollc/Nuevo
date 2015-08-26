@@ -1,0 +1,88 @@
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Ciber\OmcCiberHandler\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Ciber\OmcCiberHandler\bin\Debug\OmcCiberHandler.dll
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Ciber\OmcCiberHandler\bin\Debug\OmcCiberHandler.pdb
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Ciber\OmcCiberHandler\bin\Debug\CdrCiberDbMgr.dll
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Ciber\OmcCiberHandler\bin\Debug\CdrFormatter.dll
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Ciber\OmcCiberHandler\bin\Debug\CiberRecords.dll
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Ciber\OmcCiberHandler\bin\Debug\FileWriter.dll
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Ciber\OmcCiberHandler\bin\Debug\NpaNxxImportReader.dll
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Ciber\OmcCiberHandler\bin\Debug\OmcCdr.dll
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Ciber\OmcCiberHandler\bin\Debug\TechDataSheetReader.dll
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Ciber\OmcCiberHandler\bin\Debug\CdrFormatter.pdb
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Ciber\OmcCiberHandler\bin\Debug\NpaNxxImportReader.pdb
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Ciber\OmcCiberHandler\bin\Debug\CiberRecords.pdb
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Ciber\OmcCiberHandler\bin\Debug\CdrCiberDbMgr.pdb
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Ciber\OmcCiberHandler\bin\Debug\FileWriter.pdb
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Ciber\OmcCiberHandler\bin\Debug\OmcCdr.pdb
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Ciber\OmcCiberHandler\bin\Debug\TechDataSheetReader.pdb
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Ciber\OmcCiberHandler\obj\Debug\OmcCiberHandler.dll
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Ciber\OmcCiberHandler\obj\Debug\OmcCiberHandler.pdb
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\OmcCiberHandler\bin\Debug\OmcCiberHandler.dll
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\OmcCiberHandler\bin\Debug\OmcCiberHandler.pdb
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\OmcCiberHandler\bin\Debug\CdrCiberDbMgr.dll
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\OmcCiberHandler\bin\Debug\CdrFormatter.dll
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\OmcCiberHandler\bin\Debug\CiberRating.dll
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\OmcCiberHandler\bin\Debug\CiberRecords.dll
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\OmcCiberHandler\bin\Debug\CiberTax.dll
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\OmcCiberHandler\bin\Debug\FileWriter.dll
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\OmcCiberHandler\bin\Debug\NpaNxxImportReader.dll
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\OmcCiberHandler\bin\Debug\OmcCdr.dll
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\OmcCiberHandler\bin\Debug\TechDataSheetReader.dll
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\OmcCiberHandler\bin\Debug\CdrCiberDbMgr.pdb
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\OmcCiberHandler\bin\Debug\CdrFormatter.pdb
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\OmcCiberHandler\bin\Debug\CiberRating.pdb
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\OmcCiberHandler\bin\Debug\CiberRecords.pdb
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\OmcCiberHandler\bin\Debug\CiberTax.pdb
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\OmcCiberHandler\bin\Debug\FileWriter.pdb
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\OmcCiberHandler\bin\Debug\NpaNxxImportReader.pdb
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\OmcCiberHandler\bin\Debug\OmcCdr.pdb
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\OmcCiberHandler\bin\Debug\TechDataSheetReader.pdb
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\OmcCiberHandler\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\OmcCiberHandler\obj\Debug\OmcCiberHandler.dll
+C:\Users\rhernandez.CORP\Documents\Visual Studio 2008\Projects\Ciber\OmcCiberHandler\obj\Debug\OmcCiberHandler.pdb
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCiberHandler\bin\Debug\OmcCiberHandler.dll
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCiberHandler\bin\Debug\OmcCiberHandler.pdb
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCiberHandler\bin\Debug\CdrCiberDbMgr.dll
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCiberHandler\bin\Debug\CdrFormatter.dll
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCiberHandler\bin\Debug\CiberRating.dll
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCiberHandler\bin\Debug\CiberRecords.dll
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCiberHandler\bin\Debug\CiberTax.dll
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCiberHandler\bin\Debug\FileWriter.dll
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCiberHandler\bin\Debug\NpaNxxImportReader.dll
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCiberHandler\bin\Debug\OmcCdr.dll
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCiberHandler\bin\Debug\TechDataSheetReader.dll
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCiberHandler\bin\Debug\CdrCiberDbMgr.pdb
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCiberHandler\bin\Debug\CdrFormatter.pdb
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCiberHandler\bin\Debug\CiberRating.pdb
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCiberHandler\bin\Debug\CiberRecords.pdb
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCiberHandler\bin\Debug\CiberTax.pdb
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCiberHandler\bin\Debug\FileWriter.pdb
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCiberHandler\bin\Debug\NpaNxxImportReader.pdb
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCiberHandler\bin\Debug\OmcCdr.pdb
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCiberHandler\bin\Debug\TechDataSheetReader.pdb
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCiberHandler\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCiberHandler\obj\Debug\OmcCiberHandler.dll
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCiberHandler\obj\Debug\OmcCiberHandler.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCiberHandler\bin\Debug\OmcCiberHandler.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCiberHandler\bin\Debug\OmcCiberHandler.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCiberHandler\bin\Debug\CdrCiberDbMgr.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCiberHandler\bin\Debug\CdrFormatter.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCiberHandler\bin\Debug\CiberRating.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCiberHandler\bin\Debug\CiberRecords.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCiberHandler\bin\Debug\CiberTax.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCiberHandler\bin\Debug\FileWriter.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCiberHandler\bin\Debug\NpaNxxImportReader.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCiberHandler\bin\Debug\OmcCdr.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCiberHandler\bin\Debug\TechDataSheetReader.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCiberHandler\bin\Debug\CdrCiberDbMgr.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCiberHandler\bin\Debug\CdrFormatter.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCiberHandler\bin\Debug\CiberRating.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCiberHandler\bin\Debug\CiberRecords.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCiberHandler\bin\Debug\CiberTax.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCiberHandler\bin\Debug\FileWriter.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCiberHandler\bin\Debug\NpaNxxImportReader.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCiberHandler\bin\Debug\OmcCdr.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCiberHandler\bin\Debug\TechDataSheetReader.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCiberHandler\obj\Debug\OmcCiberHandler.csprojResolveAssemblyReference.cache
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCiberHandler\obj\Debug\OmcCiberHandler.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\Ciber\OmcCiberHandler\obj\Debug\OmcCiberHandler.pdb

@@ -1,16 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Collections;
-using System.Linq;
 using System.Text;
 using System.Data.SqlClient;
-using System.Data.Sql;
 using System.Data;
-using System.Diagnostics;
-using System.Configuration;
-
-using TruMobility.Utils.Logging;
-using TruMobility.Reporting.Sprint;
 
 namespace TruMobility.Reporting.Sprint
 {
@@ -20,6 +13,7 @@ namespace TruMobility.Reporting.Sprint
     public class DbProcessor
     {
         private static string m_connectionString = System.Configuration.ConfigurationManager.AppSettings["Sprint_SQLConnectString"];
+
 
         /// <summary>
         /// method to get a list of unique users in the Sprint data

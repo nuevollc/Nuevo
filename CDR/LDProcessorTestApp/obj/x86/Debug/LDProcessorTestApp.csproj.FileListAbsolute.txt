@@ -1,0 +1,42 @@
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\CDR\LDProcessorTestApp\obj\x86\Debug\LDProcessorTestApp.Form1.resources
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\CDR\LDProcessorTestApp\obj\x86\Debug\LDProcessorTestApp.Properties.Resources.resources
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\CDR\LDProcessorTestApp\obj\x86\Debug\LDProcessorTestApp.csproj.GenerateResource.Cache
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\CDR\LDProcessorTestApp\bin\Debug\LDProcessorTestApp.exe.config
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\CDR\LDProcessorTestApp\bin\Debug\LDProcessorTestApp.exe
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\CDR\LDProcessorTestApp\bin\Debug\LDProcessorTestApp.pdb
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\CDR\LDProcessorTestApp\bin\Debug\LDProcessor.dll
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\CDR\LDProcessorTestApp\bin\Debug\LogFileMgr.dll
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\CDR\LDProcessorTestApp\bin\Debug\LDProcessor.pdb
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\CDR\LDProcessorTestApp\bin\Debug\LogFileMgr.pdb
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\CDR\LDProcessorTestApp\obj\x86\Debug\LDProcessorTestApp.csprojResolveAssemblyReference.cache
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\CDR\LDProcessorTestApp\obj\x86\Debug\LDProcessorTestApp.exe
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\CDR\LDProcessorTestApp\obj\x86\Debug\LDProcessorTestApp.pdb
+D:\GoogleDrive\Google Drive\Nuevo\Software\VisualStudio2010\Projects\CDR\LDProcessorTestApp\bin\Debug\LDProcessorTestApp.exe.config
+D:\GoogleDrive\Google Drive\Nuevo\Software\VisualStudio2010\Projects\CDR\LDProcessorTestApp\obj\x86\Debug\LDProcessorTestApp.exe
+D:\GoogleDrive\Google Drive\Nuevo\Software\VisualStudio2010\Projects\CDR\LDProcessorTestApp\obj\x86\Debug\LDProcessorTestApp.pdb
+D:\GoogleDrive\Google Drive\Nuevo\Software\VisualStudio2010\Projects\CDR\LDProcessorTestApp\bin\Debug\LDProcessorTestApp.exe
+D:\GoogleDrive\Google Drive\Nuevo\Software\VisualStudio2010\Projects\CDR\LDProcessorTestApp\bin\Debug\LDProcessorTestApp.pdb
+D:\GoogleDrive\Google Drive\Nuevo\Software\VisualStudio2010\Projects\CDR\LDProcessorTestApp\bin\Debug\LDProcessor.dll
+D:\GoogleDrive\Google Drive\Nuevo\Software\VisualStudio2010\Projects\CDR\LDProcessorTestApp\bin\Debug\LogFileMgr.dll
+D:\GoogleDrive\Google Drive\Nuevo\Software\VisualStudio2010\Projects\CDR\LDProcessorTestApp\bin\Debug\LDProcessor.pdb
+D:\GoogleDrive\Google Drive\Nuevo\Software\VisualStudio2010\Projects\CDR\LDProcessorTestApp\bin\Debug\LogFileMgr.pdb
+D:\GoogleDrive\Google Drive\Nuevo\Software\VisualStudio2010\Projects\CDR\LDProcessorTestApp\obj\x86\Debug\LDProcessorTestApp.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\Google Drive\Nuevo\Software\VisualStudio2010\Projects\CDR\LDProcessorTestApp\obj\x86\Debug\LDProcessorTestApp.Form1.resources
+D:\GoogleDrive\Google Drive\Nuevo\Software\VisualStudio2010\Projects\CDR\LDProcessorTestApp\obj\x86\Debug\LDProcessorTestApp.Properties.Resources.resources
+D:\GoogleDrive\Google Drive\Nuevo\Software\VisualStudio2010\Projects\CDR\LDProcessorTestApp\obj\x86\Debug\LDProcessorTestApp.csproj.GenerateResource.Cache
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\CDR\LDProcessorTestApp\bin\Debug\LDProcessorTestApp.exe.config
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\CDR\LDProcessorTestApp\obj\x86\Debug\LDProcessorTestApp.exe
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\CDR\LDProcessorTestApp\obj\x86\Debug\LDProcessorTestApp.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\CDR\LDProcessorTestApp\bin\Debug\LDProcessorTestApp.exe
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\CDR\LDProcessorTestApp\bin\Debug\LDProcessorTestApp.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\CDR\LDProcessorTestApp\bin\Debug\LDProcessor.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\CDR\LDProcessorTestApp\bin\Debug\LogFileMgr.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\CDR\LDProcessorTestApp\bin\Debug\LDProcessor.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\CDR\LDProcessorTestApp\bin\Debug\LogFileMgr.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\CDR\LDProcessorTestApp\obj\x86\Debug\LDProcessorTestApp.csprojResolveAssemblyReference.cache
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\CDR\LDProcessorTestApp\obj\x86\Debug\LDProcessorTestApp.Form1.resources
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\CDR\LDProcessorTestApp\obj\x86\Debug\LDProcessorTestApp.Properties.Resources.resources
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\CDR\LDProcessorTestApp\obj\x86\Debug\LDProcessorTestApp.csproj.GenerateResource.Cache
+C:\Users\RobertL\Documents\Nuevo\Software\Projects\CDR\LDProcessorTestApp\bin\Debug\LDProcessorTestApp.exe.config
+C:\Users\RobertL\Documents\Nuevo\Software\Projects\CDR\LDProcessorTestApp\obj\x86\Debug\LDProcessorTestApp.exe
+C:\Users\RobertL\Documents\Nuevo\Software\Projects\CDR\LDProcessorTestApp\obj\x86\Debug\LDProcessorTestApp.pdb

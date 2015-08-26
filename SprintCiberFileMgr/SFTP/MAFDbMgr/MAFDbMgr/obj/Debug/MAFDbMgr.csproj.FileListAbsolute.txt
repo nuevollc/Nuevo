@@ -1,0 +1,21 @@
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\MAFDbMgr\MAFDbMgr\bin\Debug\MAFDbMgr.dll
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\MAFDbMgr\MAFDbMgr\bin\Debug\MAFDbMgr.pdb
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\MAFDbMgr\MAFDbMgr\bin\Debug\FileWriter.dll
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\MAFDbMgr\MAFDbMgr\bin\Debug\FileWriter.pdb
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\MAFDbMgr\MAFDbMgr\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\MAFDbMgr\MAFDbMgr\obj\Debug\MAFDbMgr.dll
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\MAFDbMgr\MAFDbMgr\obj\Debug\MAFDbMgr.pdb
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\MAFDbMgr\MAFDbMgr\bin\Debug\MAFDbMgr.dll
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\MAFDbMgr\MAFDbMgr\bin\Debug\MAFDbMgr.pdb
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\MAFDbMgr\MAFDbMgr\bin\Debug\FileWriter.dll
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\MAFDbMgr\MAFDbMgr\bin\Debug\FileWriter.pdb
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\MAFDbMgr\MAFDbMgr\obj\Debug\MAFDbMgr.csprojResolveAssemblyReference.cache
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\MAFDbMgr\MAFDbMgr\obj\Debug\MAFDbMgr.dll
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\MAFDbMgr\MAFDbMgr\obj\Debug\MAFDbMgr.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\MAFDbMgr\MAFDbMgr\bin\Debug\MAFDbMgr.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\MAFDbMgr\MAFDbMgr\bin\Debug\MAFDbMgr.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\MAFDbMgr\MAFDbMgr\bin\Debug\FileWriter.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\MAFDbMgr\MAFDbMgr\bin\Debug\FileWriter.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\MAFDbMgr\MAFDbMgr\obj\Debug\MAFDbMgr.csprojResolveAssemblyReference.cache
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\MAFDbMgr\MAFDbMgr\obj\Debug\MAFDbMgr.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\MAFDbMgr\MAFDbMgr\obj\Debug\MAFDbMgr.pdb

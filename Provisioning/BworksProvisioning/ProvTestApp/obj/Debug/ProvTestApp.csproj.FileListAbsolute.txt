@@ -1,0 +1,7 @@
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Provisioning\BworksProvisioning\ProvTestApp\bin\Debug\ProvTestApp.exe.config
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Provisioning\BworksProvisioning\ProvTestApp\obj\Debug\ProvTestApp.exe
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Provisioning\BworksProvisioning\ProvTestApp\obj\Debug\ProvTestApp.pdb
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Provisioning\BworksProvisioning\ProvTestApp\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Provisioning\BworksProvisioning\ProvTestApp\obj\Debug\ProvTestApp.Form1.resources
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Provisioning\BworksProvisioning\ProvTestApp\obj\Debug\ProvTestApp.Properties.Resources.resources
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Provisioning\BworksProvisioning\ProvTestApp\obj\Debug\ProvTestApp.csproj.GenerateResource.Cache

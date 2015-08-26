@@ -1,0 +1,76 @@
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\ClassLibrary1\WindowsService1\bin\Debug\WindowsService1.exe
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\ClassLibrary1\WindowsService1\bin\Debug\WindowsService1.pdb
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\ClassLibrary1\WindowsService1\bin\Debug\ClassLibrary1.dll
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\ClassLibrary1\WindowsService1\bin\Debug\Tamir.SharpSsh.dll
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\ClassLibrary1\WindowsService1\bin\Debug\DiffieHellman.dll
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\ClassLibrary1\WindowsService1\bin\Debug\ClassLibrary1.pdb
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\ClassLibrary1\WindowsService1\bin\Debug\Tamir.SharpSsh.pdb
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\ClassLibrary1\WindowsService1\bin\Debug\DiffieHellman.pdb
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\ClassLibrary1\WindowsService1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\ClassLibrary1\WindowsService1\obj\x86\Debug\WindowsService1.ProjectInstaller.resources
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\ClassLibrary1\WindowsService1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\ClassLibrary1\WindowsService1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\ClassLibrary1\WindowsService1\obj\x86\Debug\WindowsService1.exe
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\ClassLibrary1\WindowsService1\obj\x86\Debug\WindowsService1.pdb
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\ClassLibrary1\WindowsService1\bin\Debug\WindowsService1.exe.config
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\ClassLibrary1\WindowsService1\obj\x86\Debug\TruMobility.Network.Services.SftpMgrSvc.resources
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\ClassLibrary1\WindowsService1\bin\Debug\MAFDbMgr.dll
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\ClassLibrary1\WindowsService1\bin\Debug\FileWriter.dll
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\ClassLibrary1\WindowsService1\bin\Debug\MAFDbMgr.pdb
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\ClassLibrary1\WindowsService1\bin\Debug\FileWriter.pdb
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\bin\Debug\WindowsService1.exe.config
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\bin\Debug\WindowsService1.exe
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\bin\Debug\WindowsService1.pdb
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\bin\Debug\ClassLibrary1.dll
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\bin\Debug\MAFDbMgr.dll
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\bin\Debug\Tamir.SharpSsh.dll
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\bin\Debug\FileWriter.dll
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\bin\Debug\DiffieHellman.dll
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\bin\Debug\ClassLibrary1.pdb
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\bin\Debug\MAFDbMgr.pdb
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\bin\Debug\Tamir.SharpSsh.pdb
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\bin\Debug\FileWriter.pdb
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\bin\Debug\DiffieHellman.pdb
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\obj\x86\Debug\WindowsService1.ProjectInstaller.resources
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\obj\x86\Debug\TruMobility.Network.Services.SftpMgrSvc.resources
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\obj\x86\Debug\WindowsService1.exe
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\obj\x86\Debug\WindowsService1.pdb
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\obj\x86\Debug\WindowsService1.ProjectInstaller.resources
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\obj\x86\Debug\TruMobility.Network.Services.SftpMgrSvc.resources
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\obj\x86\Debug\SftpMgrSvc.csproj.GenerateResource.Cache
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\obj\x86\Debug\WindowsService1.exe
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\obj\x86\Debug\WindowsService1.pdb
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\bin\Debug\WindowsService1.exe.config
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\bin\Debug\WindowsService1.exe
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\bin\Debug\WindowsService1.pdb
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\bin\Debug\ClassLibrary1.dll
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\bin\Debug\FileWriter.dll
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\bin\Debug\MAFDbMgr.dll
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\bin\Debug\Tamir.SharpSsh.dll
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\bin\Debug\DiffieHellman.dll
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\bin\Debug\FileWriter.pdb
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\bin\Debug\ClassLibrary1.pdb
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\bin\Debug\MAFDbMgr.pdb
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\bin\Debug\Tamir.SharpSsh.pdb
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\bin\Debug\DiffieHellman.pdb
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\obj\x86\Debug\SftpMgrSvc.csprojResolveAssemblyReference.cache
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\bin\Debug\MAFSftpSvc.exe.config
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\bin\Debug\MAFSftpSvc.exe
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\bin\Debug\MAFSftpSvc.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\bin\Debug\MAFSftpMgr.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\bin\Debug\KellermanSoftware.NET-SFTP-Library.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\bin\Debug\MAFDbMgr.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\bin\Debug\FileWriter.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\bin\Debug\MAFSftpMgr.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\bin\Debug\KellermanSoftware.NET-SFTP-Library.xml
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\bin\Debug\MAFDbMgr.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\bin\Debug\FileWriter.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\obj\x86\Debug\SftpMgrSvc.csprojResolveAssemblyReference.cache
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\obj\x86\Debug\WindowsService1.ProjectInstaller.resources
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\obj\x86\Debug\TruMobility.Network.Services.SftpMgrSvc.resources
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\obj\x86\Debug\SftpMgrSvc.csproj.GenerateResource.Cache
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\obj\x86\Debug\MAFSftpSvc.exe
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\SftpMgrSvc\obj\x86\Debug\MAFSftpSvc.pdb

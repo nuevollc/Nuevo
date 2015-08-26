@@ -1,0 +1,7 @@
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\LTESftpMgr\LTEDbMgr\bin\Debug\LTEDbMgr.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\LTESftpMgr\LTEDbMgr\bin\Debug\LTEDbMgr.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\LTESftpMgr\LTEDbMgr\bin\Debug\LogFileMgr.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\LTESftpMgr\LTEDbMgr\bin\Debug\LogFileMgr.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\LTESftpMgr\LTEDbMgr\obj\Debug\LTEDbMgr.csprojResolveAssemblyReference.cache
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\LTESftpMgr\LTEDbMgr\obj\Debug\LTEDbMgr.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\LTESftpMgr\LTEDbMgr\obj\Debug\LTEDbMgr.pdb

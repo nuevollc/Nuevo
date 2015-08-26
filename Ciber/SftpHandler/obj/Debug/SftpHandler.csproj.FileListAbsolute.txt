@@ -1,0 +1,9 @@
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Ciber\SftpHandler\bin\Debug\SftpHandler.dll
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Ciber\SftpHandler\bin\Debug\SftpHandler.pdb
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Ciber\SftpHandler\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Ciber\SftpHandler\obj\Debug\SftpHandler.dll
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Ciber\SftpHandler\obj\Debug\SftpHandler.pdb
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Ciber\SftpHandler\bin\Debug\Tamir.SharpSSH.dll
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Ciber\SftpHandler\bin\Debug\Org.Mentalis.Security.dll
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Ciber\SftpHandler\bin\Debug\DiffieHellman.dll
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Ciber\SftpHandler\bin\Debug\Tamir.SharpSSH.pdb

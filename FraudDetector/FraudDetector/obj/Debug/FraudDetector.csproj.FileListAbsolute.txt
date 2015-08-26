@@ -1,0 +1,15 @@
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\FraudDetector\FraudDetector\bin\Debug\FraudDetector.XML
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\FraudDetector\FraudDetector\bin\Debug\FraudDetector.dll
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\FraudDetector\FraudDetector\bin\Debug\FraudDetector.pdb
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\FraudDetector\FraudDetector\obj\Debug\FraudDetector.dll
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\FraudDetector\FraudDetector\obj\Debug\FraudDetector.pdb
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\FraudDetector\FraudDetector\bin\Debug\FraudDetector.dll
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\FraudDetector\FraudDetector\bin\Debug\FraudDetector.pdb
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\FraudDetector\FraudDetector\obj\Debug\FraudDetector.dll
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\FraudDetector\FraudDetector\obj\Debug\FraudDetector.pdb
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\FraudDetector\FraudDetector\bin\Debug\FraudDetector.XML
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\FraudDetector\FraudDetector\bin\Debug\FraudDetector.XML
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\FraudDetector\FraudDetector\bin\Debug\FraudDetector.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\FraudDetector\FraudDetector\bin\Debug\FraudDetector.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\FraudDetector\FraudDetector\obj\Debug\FraudDetector.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\FraudDetector\FraudDetector\obj\Debug\FraudDetector.pdb

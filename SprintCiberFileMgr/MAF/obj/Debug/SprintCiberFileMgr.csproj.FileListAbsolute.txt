@@ -1,0 +1,7 @@
+c:\users\rhernandez\documents\visual studio 2010\Projects\SprintCiberFileMgr\SprintCiberFileMgr\obj\Debug\ResolveAssemblyReference.cache
+c:\users\rhernandez\documents\visual studio 2010\Projects\SprintCiberFileMgr\SprintCiberFileMgr\bin\Debug\SprintCiberFileMgr.dll
+c:\users\rhernandez\documents\visual studio 2010\Projects\SprintCiberFileMgr\SprintCiberFileMgr\bin\Debug\SprintCiberFileMgr.pdb
+c:\users\rhernandez\documents\visual studio 2010\Projects\SprintCiberFileMgr\SprintCiberFileMgr\obj\Debug\SprintCiberFileMgr.dll
+c:\users\rhernandez\documents\visual studio 2010\Projects\SprintCiberFileMgr\SprintCiberFileMgr\obj\Debug\SprintCiberFileMgr.pdb
+c:\users\rhernandez\documents\visual studio 2010\Projects\SprintCiberFileMgr\SprintCiberFileMgr\bin\Debug\CiberRecords.dll
+c:\users\rhernandez\documents\visual studio 2010\Projects\SprintCiberFileMgr\SprintCiberFileMgr\bin\Debug\CiberRecords.pdb

@@ -1,0 +1,4 @@
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\CdrFtpHandler\FileWriter\bin\Release\FileWriter.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\CdrFtpHandler\FileWriter\bin\Release\FileWriter.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\CdrFtpHandler\FileWriter\obj\Release\FileWriter.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\CdrFtpHandler\FileWriter\obj\Release\FileWriter.pdb

@@ -1,0 +1,8 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\BworksProvisioning\BworksProvisioning\bin\Debug\BworksProvisioning.dll.config
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\BworksProvisioning\BworksProvisioning\bin\Debug\BworksProvisioning.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\BworksProvisioning\BworksProvisioning\bin\Debug\BworksProvisioning.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\BworksProvisioning\BworksProvisioning\bin\Debug\OCIClient.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\BworksProvisioning\BworksProvisioning\bin\Debug\OCIClient.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\BworksProvisioning\BworksProvisioning\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\BworksProvisioning\BworksProvisioning\obj\Debug\BworksProvisioning.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\BworksProvisioning\BworksProvisioning\obj\Debug\BworksProvisioning.pdb

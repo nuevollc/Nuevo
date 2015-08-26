@@ -1,0 +1,16 @@
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\AMSSftpMgr\AMSSftpSvc\bin\Debug\AMSSftpSvc.exe.config
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\AMSSftpMgr\AMSSftpSvc\bin\Debug\AMSSftpSvc.exe
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\AMSSftpMgr\AMSSftpSvc\bin\Debug\AMSSftpSvc.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\AMSSftpMgr\AMSSftpSvc\bin\Debug\AMSSftpMgr.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\AMSSftpMgr\AMSSftpSvc\bin\Debug\KellermanSoftware.NET-SFTP-Library.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\AMSSftpMgr\AMSSftpSvc\bin\Debug\AMSDbMgr.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\AMSSftpMgr\AMSSftpSvc\bin\Debug\LogFileMgr.dll
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\AMSSftpMgr\AMSSftpSvc\bin\Debug\AMSSftpMgr.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\AMSSftpMgr\AMSSftpSvc\bin\Debug\KellermanSoftware.NET-SFTP-Library.xml
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\AMSSftpMgr\AMSSftpSvc\bin\Debug\AMSDbMgr.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\AMSSftpMgr\AMSSftpSvc\bin\Debug\LogFileMgr.pdb
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\AMSSftpMgr\AMSSftpSvc\obj\Debug\AMSSftpSvc.csprojResolveAssemblyReference.cache
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\AMSSftpMgr\AMSSftpSvc\obj\Debug\AMSSftpSvc.ProjectInstaller.resources
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\AMSSftpMgr\AMSSftpSvc\obj\Debug\AMSSftpSvc.csproj.GenerateResource.Cache
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\AMSSftpMgr\AMSSftpSvc\obj\Debug\AMSSftpSvc.exe
+C:\Users\RobertL\Documents\Nuevo\Nuevo\Software\VisualStudio2010\Projects\SprintCiberFileMgr\SFTP\AMSSftpMgr\AMSSftpSvc\obj\Debug\AMSSftpSvc.pdb

@@ -1,0 +1,7 @@
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Strata8\Strata8CdrProcessor\S8ReportSvc\bin\Debug\S8ReportSvc.exe
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Strata8\Strata8CdrProcessor\S8ReportSvc\bin\Debug\S8ReportSvc.pdb
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Strata8\Strata8CdrProcessor\S8ReportSvc\bin\Debug\Strata8CdrProcessor.dll
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Strata8\Strata8CdrProcessor\S8ReportSvc\bin\Debug\Strata8CdrProcessor.pdb
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Strata8\Strata8CdrProcessor\S8ReportSvc\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Strata8\Strata8CdrProcessor\S8ReportSvc\obj\Debug\S8ReportSvc.exe
+D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Strata8\Strata8CdrProcessor\S8ReportSvc\obj\Debug\S8ReportSvc.pdb

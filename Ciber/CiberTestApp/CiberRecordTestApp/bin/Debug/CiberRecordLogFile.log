@@ -1,0 +1,257 @@
+3/18/2009 10:43:45 AM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+3/18/2009 10:44:35 AM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+3/18/2009 12:24:19 PM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+3/18/2009 3:50:15 PM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+3/18/2009 3:52:56 PM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+3/18/2009 3:53:36 PM WirelessCdrProcessor::ProcessCdrThread():ECaught:Value cannot be null.
+Parameter name: to   at System.Net.Mail.MailMessage..ctor(String from, String to)
+   at System.Net.Mail.MailMessage..ctor(String from, String to, String subject, String body)
+   at Strata8.Wireless.Cdr.Reporting.WirelessCdrProcessor.SendCallReportNotificationHtml(List`1 cdrList, List`1 sprintList, WTotalsReport reportTotals, WTotalsReport sprintTotals, DateTime reportEndTime, DateTime reportStartTime, String emailList) in D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\WirelessReportingSvc\WirelessCdrProcessor.cs:line 717
+   at Strata8.Wireless.Cdr.Reporting.WirelessCdrProcessor.CreateDailyCallReport(DateTime reportFromTime, DateTime reportToTime, String emailList) in D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\WirelessReportingSvc\WirelessCdrProcessor.cs:line 408
+   at Strata8.Wireless.Cdr.Reporting.WirelessCdrProcessor.ProcessCdrThread() in D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\WirelessReportingSvc\WirelessCdrProcessor.cs:line 841
+3/18/2009 3:59:15 PM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+3/24/2009 8:37:09 AM WirelessCdrProcessor::SendReportNotification():ECaught:Failure sending mail.   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Strata8.Wireless.Cdr.Reporting.WirelessCdrProcessor.SendCallReportNotificationHtml(List`1 cdrList, List`1 sprintList, WTotalsReport reportTotals, WTotalsReport sprintTotals, DateTime reportEndTime, DateTime reportStartTime, String emailList) in D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\WirelessReportingSvc\WirelessCdrProcessor.cs:line 725
+3/24/2009 8:37:30 AM WirelessCdrProcessor::SendReportNotification():ECaught:Failure sending mail.   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Strata8.Wireless.Cdr.Reporting.WirelessCdrProcessor.SendCallReportNotificationHtml(List`1 cdrList, List`1 sprintList, WTotalsReport reportTotals, WTotalsReport sprintTotals, DateTime reportEndTime, DateTime reportStartTime, String emailList) in D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\WirelessReportingSvc\WirelessCdrProcessor.cs:line 725
+3/24/2009 8:37:34 AM WirelessCdrProcessor::PostFileToSite():FilePosted:d:\apps\reporting\out\OW-MSC-CDR-20090324083730.csv-226 File receive OK.
+
+3/24/2009 8:37:48 AM WirelessCdrProcessor::SendReportNotification():ECaught:Failure sending mail.   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Strata8.Wireless.Cdr.Reporting.WirelessCdrProcessor.SendCallReportNotificationHtml(List`1 cdrList, List`1 sprintList, WTotalsReport reportTotals, WTotalsReport sprintTotals, DateTime reportEndTime, DateTime reportStartTime, String emailList) in D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\WirelessReportingSvc\WirelessCdrProcessor.cs:line 725
+3/24/2009 8:38:09 AM WirelessCdrProcessor::SendReportNotification():ECaught:Failure sending mail.   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Strata8.Wireless.Cdr.Reporting.WirelessCdrProcessor.SendCallReportNotificationHtml(List`1 cdrList, List`1 sprintList, WTotalsReport reportTotals, WTotalsReport sprintTotals, DateTime reportEndTime, DateTime reportStartTime, String emailList) in D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\WirelessReportingSvc\WirelessCdrProcessor.cs:line 725
+3/24/2009 8:38:25 AM WirelessCdrProcessor::PostFileToSite():FilePosted:d:\apps\reporting\out\OW-MSC-CDR-20090324083809.csv-226 File receive OK.
+
+3/24/2009 8:38:55 AM WirelessCdrProcessor::SendReportNotification():ECaught:Failure sending mail.   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Strata8.Wireless.Cdr.Reporting.WirelessCdrProcessor.SendCallReportNotificationHtml(List`1 cdrList, List`1 sprintList, WTotalsReport reportTotals, WTotalsReport sprintTotals, DateTime reportEndTime, DateTime reportStartTime, String emailList) in D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\WirelessReportingSvc\WirelessCdrProcessor.cs:line 725
+3/24/2009 8:40:32 AM WirelessCdrProcessor::SendReportNotification():ECaught:Failure sending mail.   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Strata8.Wireless.Cdr.Reporting.WirelessCdrProcessor.SendCallReportNotificationHtml(List`1 cdrList, List`1 sprintList, WTotalsReport reportTotals, WTotalsReport sprintTotals, DateTime reportEndTime, DateTime reportStartTime, String emailList) in D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\WirelessReportingSvc\WirelessCdrProcessor.cs:line 725
+3/24/2009 8:40:53 AM WirelessCdrProcessor::SendReportNotification():ECaught:Failure sending mail.   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Strata8.Wireless.Cdr.Reporting.WirelessCdrProcessor.SendCallReportNotificationHtml(List`1 cdrList, List`1 sprintList, WTotalsReport reportTotals, WTotalsReport sprintTotals, DateTime reportEndTime, DateTime reportStartTime, String emailList) in D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\WirelessReportingSvc\WirelessCdrProcessor.cs:line 725
+3/24/2009 8:40:56 AM WirelessCdrProcessor::PostFileToSite():FilePosted:d:\apps\reporting\out\OW-MSC-CDR-20090324084053.csv-226 File receive OK.
+
+3/24/2009 8:41:04 AM WirelessCdrProcessor::SendReportNotification():ECaught:Failure sending mail.   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Strata8.Wireless.Cdr.Reporting.WirelessCdrProcessor.SendCallReportNotificationHtml(List`1 cdrList, List`1 sprintList, WTotalsReport reportTotals, WTotalsReport sprintTotals, DateTime reportEndTime, DateTime reportStartTime, String emailList) in D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\WirelessReportingSvc\WirelessCdrProcessor.cs:line 725
+3/24/2009 8:41:25 AM WirelessCdrProcessor::SendReportNotification():ECaught:Failure sending mail.   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Strata8.Wireless.Cdr.Reporting.WirelessCdrProcessor.SendCallReportNotificationHtml(List`1 cdrList, List`1 sprintList, WTotalsReport reportTotals, WTotalsReport sprintTotals, DateTime reportEndTime, DateTime reportStartTime, String emailList) in D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\WirelessReportingSvc\WirelessCdrProcessor.cs:line 725
+3/24/2009 8:41:41 AM WirelessCdrProcessor::PostFileToSite():FilePosted:d:\apps\reporting\out\OW-MSC-CDR-20090324084125.csv-226 File receive OK.
+
+3/24/2009 8:42:17 AM WirelessCdrProcessor::SendReportNotification():ECaught:Failure sending mail.   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Strata8.Wireless.Cdr.Reporting.WirelessCdrProcessor.SendCallReportNotificationHtml(List`1 cdrList, List`1 sprintList, WTotalsReport reportTotals, WTotalsReport sprintTotals, DateTime reportEndTime, DateTime reportStartTime, String emailList) in D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\WirelessReportingSvc\WirelessCdrProcessor.cs:line 725
+3/24/2009 8:43:03 AM WirelessCdrProcessor::SendReportNotification():ECaught:Failure sending mail.   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Strata8.Wireless.Cdr.Reporting.WirelessCdrProcessor.SendCallReportNotificationHtml(List`1 cdrList, List`1 sprintList, WTotalsReport reportTotals, WTotalsReport sprintTotals, DateTime reportEndTime, DateTime reportStartTime, String emailList) in D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\WirelessReportingSvc\WirelessCdrProcessor.cs:line 725
+3/24/2009 8:43:38 AM WirelessCdrProcessor::SendReportNotification():ECaught:Failure sending mail.   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Strata8.Wireless.Cdr.Reporting.WirelessCdrProcessor.SendCallReportNotificationHtml(List`1 cdrList, List`1 sprintList, WTotalsReport reportTotals, WTotalsReport sprintTotals, DateTime reportEndTime, DateTime reportStartTime, String emailList) in D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\WirelessReportingSvc\WirelessCdrProcessor.cs:line 725
+3/24/2009 8:44:23 AM WirelessCdrProcessor::SendReportNotification():ECaught:Failure sending mail.   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Strata8.Wireless.Cdr.Reporting.WirelessCdrProcessor.SendCallReportNotificationHtml(List`1 cdrList, List`1 sprintList, WTotalsReport reportTotals, WTotalsReport sprintTotals, DateTime reportEndTime, DateTime reportStartTime, String emailList) in D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\WirelessReportingSvc\WirelessCdrProcessor.cs:line 725
+3/24/2009 8:45:06 AM WirelessReportDbMgr::GetOmcCdrs():Unclosed quotation mark after the character string ' ORDER BY SEQNUMBER DESC'.
+3/24/2009 8:45:27 AM WirelessCdrProcessor::SendReportNotification():ECaught:Failure sending mail.   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Strata8.Wireless.Cdr.Reporting.WirelessCdrProcessor.SendCallReportNotificationHtml(List`1 cdrList, List`1 sprintList, WTotalsReport reportTotals, WTotalsReport sprintTotals, DateTime reportEndTime, DateTime reportStartTime, String emailList) in D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\WirelessReportingSvc\WirelessCdrProcessor.cs:line 725
+3/24/2009 8:45:27 AM WirelessReportDbMgr::GetOmcCdrs():Unclosed quotation mark after the character string ' ORDER BY SEQNUMBER DESC'.
+3/24/2009 8:45:48 AM WirelessCdrProcessor::SendReportNotification():ECaught:Failure sending mail.   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Strata8.Wireless.Cdr.Reporting.WirelessCdrProcessor.SendCallReportNotificationHtml(List`1 cdrList, List`1 sprintList, WTotalsReport reportTotals, WTotalsReport sprintTotals, DateTime reportEndTime, DateTime reportStartTime, String emailList) in D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\WirelessReportingSvc\WirelessCdrProcessor.cs:line 725
+3/24/2009 8:45:51 AM WirelessCdrProcessor::PostFileToSite():FilePosted:d:\apps\reporting\out\OW-MSC-CDR-20090324084548.csv-226 File receive OK.
+
+3/24/2009 8:46:51 AM WirelessReportDbMgr::GetOmcCdrs():Unclosed quotation mark after the character string ' ORDER BY SEQNUMBER DESC'.
+3/24/2009 8:47:35 AM WirelessCdrProcessor::SendReportNotification():ECaught:Failure sending mail.   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Strata8.Wireless.Cdr.Reporting.WirelessCdrProcessor.SendCallReportNotificationHtml(List`1 cdrList, List`1 sprintList, WTotalsReport reportTotals, WTotalsReport sprintTotals, DateTime reportEndTime, DateTime reportStartTime, String emailList) in D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\WirelessReportingSvc\WirelessCdrProcessor.cs:line 725
+3/24/2009 8:47:57 AM WirelessCdrProcessor::SendReportNotification():ECaught:Failure sending mail.   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Strata8.Wireless.Cdr.Reporting.WirelessCdrProcessor.SendCallReportNotificationHtml(List`1 cdrList, List`1 sprintList, WTotalsReport reportTotals, WTotalsReport sprintTotals, DateTime reportEndTime, DateTime reportStartTime, String emailList) in D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\WirelessReportingSvc\WirelessCdrProcessor.cs:line 725
+3/24/2009 8:47:58 AM WirelessCdrProcessor::PostFileToSite():FilePosted:d:\apps\reporting\out\OW-MSC-CDR-20090324084757.csv-226 File receive OK.
+
+3/24/2009 8:48:47 AM WirelessCdrProcessor::SendReportNotification():ECaught:Failure sending mail.   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Strata8.Wireless.Cdr.Reporting.WirelessCdrProcessor.SendCallReportNotificationHtml(List`1 cdrList, List`1 sprintList, WTotalsReport reportTotals, WTotalsReport sprintTotals, DateTime reportEndTime, DateTime reportStartTime, String emailList) in D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\WirelessReportingSvc\WirelessCdrProcessor.cs:line 725
+3/24/2009 8:49:09 AM WirelessCdrProcessor::SendReportNotification():ECaught:Failure sending mail.   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Strata8.Wireless.Cdr.Reporting.WirelessCdrProcessor.SendCallReportNotificationHtml(List`1 cdrList, List`1 sprintList, WTotalsReport reportTotals, WTotalsReport sprintTotals, DateTime reportEndTime, DateTime reportStartTime, String emailList) in D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\WirelessReportingSvc\WirelessCdrProcessor.cs:line 725
+3/24/2009 8:49:10 AM WirelessCdrProcessor::PostFileToSite():FilePosted:d:\apps\reporting\out\OW-MSC-CDR-20090324084909.csv-226 File receive OK.
+
+3/24/2009 8:49:19 AM WirelessCdrProcessor::SendReportNotification():ECaught:Failure sending mail.   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Strata8.Wireless.Cdr.Reporting.WirelessCdrProcessor.SendCallReportNotificationHtml(List`1 cdrList, List`1 sprintList, WTotalsReport reportTotals, WTotalsReport sprintTotals, DateTime reportEndTime, DateTime reportStartTime, String emailList) in D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\WirelessReportingSvc\WirelessCdrProcessor.cs:line 725
+3/24/2009 8:50:09 AM WirelessCdrProcessor::SendReportNotification():ECaught:Failure sending mail.   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Strata8.Wireless.Cdr.Reporting.WirelessCdrProcessor.SendCallReportNotificationHtml(List`1 cdrList, List`1 sprintList, WTotalsReport reportTotals, WTotalsReport sprintTotals, DateTime reportEndTime, DateTime reportStartTime, String emailList) in D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\WirelessReportingSvc\WirelessCdrProcessor.cs:line 725
+3/24/2009 8:50:31 AM WirelessCdrProcessor::SendReportNotification():ECaught:Failure sending mail.   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Strata8.Wireless.Cdr.Reporting.WirelessCdrProcessor.SendCallReportNotificationHtml(List`1 cdrList, List`1 sprintList, WTotalsReport reportTotals, WTotalsReport sprintTotals, DateTime reportEndTime, DateTime reportStartTime, String emailList) in D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\WirelessReportingSvc\WirelessCdrProcessor.cs:line 725
+3/24/2009 8:50:31 AM WirelessCdrProcessor::PostFileToSite():FilePosted:d:\apps\reporting\out\OW-MSC-CDR-20090324085031.csv-226 File receive OK.
+
+3/24/2009 8:51:01 AM WirelessCdrProcessor::PostFileToSite():FilePosted:d:\apps\reporting\out\OW-MSC-CDR-20090324085101.csv-226 File receive OK.
+
+3/24/2009 8:52:08 AM WirelessReportDbMgr::GetOmcCdrs():Unclosed quotation mark after the character string ' ORDER BY SEQNUMBER DESC'.
+3/24/2009 8:52:08 AM WirelessReportDbMgr::GetOmcCdrs():Unclosed quotation mark after the character string ' ORDER BY SEQNUMBER DESC'.
+3/24/2009 8:52:08 AM WirelessCdrProcessor::PostFileToSite():FilePosted:d:\apps\reporting\out\OW-MSC-CDR-20090324085208.csv-226 File receive OK.
+
+3/24/2009 8:53:05 AM WirelessReportDbMgr::GetOmcCdrs():Unclosed quotation mark after the character string ' ORDER BY SEQNUMBER DESC'.
+3/24/2009 8:53:05 AM WirelessReportDbMgr::GetOmcCdrs():Unclosed quotation mark after the character string ' ORDER BY SEQNUMBER DESC'.
+3/24/2009 8:53:05 AM WirelessCdrProcessor::PostFileToSite():FilePosted:d:\apps\reporting\out\OW-MSC-CDR-20090324085305.csv-226 File receive OK.
+
+3/24/2009 8:53:08 AM WirelessReportDbMgr::GetOmcCdrs():Unclosed quotation mark after the character string ' ORDER BY SEQNUMBER DESC'.
+3/24/2009 8:54:05 AM WirelessReportDbMgr::GetOmcCdrs():Unclosed quotation mark after the character string ' ORDER BY SEQNUMBER DESC'.
+3/24/2009 8:54:08 AM WirelessReportDbMgr::GetOmcCdrs():Unclosed quotation mark after the character string ' ORDER BY SEQNUMBER DESC'.
+3/24/2009 8:55:00 AM WirelessCdrProcessor::PostFileToSite():FilePosted:d:\apps\reporting\out\OW-MSC-CDR-20090324085500.csv-226 File receive OK.
+
+3/24/2009 9:45:30 AM PicoDbMgr::GetOmcCdrs():Incorrect syntax near ')'.
+Unclosed quotation mark after the character string '3/24/2009 5:45:28 PMORDER BY SEQNUMBER DESC'.
+3/24/2009 9:45:41 AM PicoDbMgr::GetOmcCdrs():Incorrect syntax near ')'.
+Unclosed quotation mark after the character string '3/24/2009 8:00:00 AMORDER BY SEQNUMBER DESC'.
+4/1/2009 9:46:30 AM WirelessCdrProcessor::PostFileToSite():FilePosted:d:\apps\reporting\out\OW-MSC-CDR-20090401094625.csv-226 File receive OK.
+
+4/1/2009 10:18:05 AM WirelessCdrProcessor::PostFileToSite():FilePosted:d:\apps\reporting\out\OW-MSC-CDR-20090401101803.csv-226 File receive OK.
+
+4/2/2009 9:45:35 AM WirelessCdrProcessor::PostFileToSite():FilePosted:d:\apps\reporting\out\OW-MSC-CDR-20090402094534.csv-226 File receive OK.
+
+4/2/2009 9:46:59 AM WirelessCdrProcessor::PostFileToSite():FilePosted:d:\apps\reporting\out\OW-MSC-CDR-20090402094654.csv-226 File receive OK.
+
+4/3/2009 8:13:21 AM WirelessCdrProcessor::PostFileToSite():FilePosted:d:\apps\reporting\out\OW-MSC-CDR-20090403081320.csv-226 File receive OK.
+
+4/6/2009 8:09:07 AM WirelessCdrProcessor::PostFileToSite():FilePosted:d:\apps\reporting\out\OW-MSC-CDR-20090406080904.csv-226 File receive OK.
+
+4/15/2009 7:21:27 AM WirelessCdrProcessor::SendReportNotification():ECaught:Exceeded storage allocation. The server response was: 5.3.4 Error: message file too big   at System.Net.Mail.DataStopCommand.CheckResponse(SmtpStatusCode statusCode, String serverResponse)
+   at System.Net.Mail.DataStopCommand.Send(SmtpConnection conn)
+   at System.Net.Mail.SmtpConnection.OnClose(Object sender, EventArgs args)
+   at System.Net.ClosableStream.Close()
+   at System.Net.Mail.MailWriter.Close()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Strata8.Wireless.Cdr.Reporting.WirelessCdrProcessor.SendCallReportNotificationHtml(List`1 vzwVoiceList, List`1 sprintVoiceList, List`1 vzwSmsList, List`1 sprintSmsList, WTotalsReport reportTotals, WTotalsReport sprintTotals, DateTime reportEndTime, DateTime reportStartTime, String emailList) in D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\WirelessReportingSvc\WirelessCdrProcessor.cs:line 664
+4/15/2009 7:25:58 AM WirelessCdrProcessor::PostFileToSite():FilePosted:d:\apps\reporting\out\OW-MSC-CDR-20090415072206.csv-226 File receive OK.
+
+4/15/2009 7:32:27 AM WirelessCdrProcessor::SendReportNotification():ECaught:Exceeded storage allocation. The server response was: 5.3.4 Error: message file too big   at System.Net.Mail.DataStopCommand.CheckResponse(SmtpStatusCode statusCode, String serverResponse)
+   at System.Net.Mail.DataStopCommand.Send(SmtpConnection conn)
+   at System.Net.Mail.SmtpConnection.OnClose(Object sender, EventArgs args)
+   at System.Net.ClosableStream.Close()
+   at System.Net.Mail.MailWriter.Close()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Strata8.Wireless.Cdr.Reporting.WirelessCdrProcessor.SendCallReportNotificationHtml(List`1 vzwVoiceList, List`1 sprintVoiceList, List`1 vzwSmsList, List`1 sprintSmsList, WTotalsReport reportTotals, WTotalsReport sprintTotals, DateTime reportEndTime, DateTime reportStartTime, String emailList) in D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\WirelessReportingSvc\WirelessCdrProcessor.cs:line 664
+4/15/2009 7:36:01 AM WirelessCdrProcessor::PostFileToSite():FilePosted:d:\apps\reporting\out\OW-MSC-CDR-20090415073550.csv-226 File receive OK.
+
+4/15/2009 9:54:32 AM WirelessCdrProcessor::SendReportNotification():ECaught:Exceeded storage allocation. The server response was: 5.3.4 Error: message file too big   at System.Net.Mail.DataStopCommand.CheckResponse(SmtpStatusCode statusCode, String serverResponse)
+   at System.Net.Mail.DataStopCommand.Send(SmtpConnection conn)
+   at System.Net.Mail.SmtpConnection.OnClose(Object sender, EventArgs args)
+   at System.Net.ClosableStream.Close()
+   at System.Net.Mail.MailWriter.Close()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Strata8.Wireless.Cdr.Reporting.WirelessCdrProcessor.SendCallReportNotificationHtml(List`1 vzwVoiceList, List`1 sprintVoiceList, List`1 vzwSmsList, List`1 sprintSmsList, WTotalsReport reportTotals, WTotalsReport sprintTotals, DateTime reportEndTime, DateTime reportStartTime, String emailList) in D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\WirelessReportingSvc\WirelessCdrProcessor.cs:line 664
+11/18/2009 10:19:07 AM WirelessReportDbMgr::OpenDataConn():A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+11/18/2009 10:19:15 AM WirelessReportDbMgr::GetOmcCdrs():A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+11/18/2009 10:19:33 AM WirelessCdrProcessor::SendReportNotification():ECaught:Command parameter not implemented. The server response was: 5.5.2 <strata8-1932357>: Helo command rejected: need fully-qualified hostname   at System.Net.Mail.RecipientCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Strata8.Wireless.Cdr.Reporting.WirelessCdrProcessor.SendCallReportNotificationHtml(List`1 vzwVoiceList, List`1 sprintVoiceList, List`1 vzwSmsList, List`1 sprintSmsList, WTotalsReport reportTotals, WTotalsReport sprintTotals, DateTime reportEndTime, DateTime reportStartTime, String emailList) in D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\WirelessReportingSvc\WirelessCdrProcessor.cs:line 668
+11/18/2009 10:20:35 AM WirelessReportDbMgr::OpenDataConn():A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+11/18/2009 10:22:01 AM WirelessReportDbMgr::GetOmcCdrs():A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+11/18/2009 10:22:39 AM WirelessCdrProcessor::SendReportNotification():ECaught:Command parameter not implemented. The server response was: 5.5.2 <strata8-1932357>: Helo command rejected: need fully-qualified hostname   at System.Net.Mail.RecipientCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Strata8.Wireless.Cdr.Reporting.WirelessCdrProcessor.SendCallReportNotificationHtml(List`1 vzwVoiceList, List`1 sprintVoiceList, List`1 vzwSmsList, List`1 sprintSmsList, WTotalsReport reportTotals, WTotalsReport sprintTotals, DateTime reportEndTime, DateTime reportStartTime, String emailList) in D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\WirelessReportingSvc\WirelessCdrProcessor.cs:line 668
+11/18/2009 10:23:29 AM WirelessCdrProcessor::PostFileToSite():ECaught:Unable to connect to the remote server
+   at System.Net.FtpWebRequest.GetRequestStream()
+   at Strata8.Wireless.Cdr.Reporting.WirelessCdrProcessor.PostFileToSite(String ftpSiteName, String user, String pass, String fileName) in D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\WirelessReportingSvc\WirelessCdrProcessor.cs:line 975
+11/18/2009 10:24:59 AM WirelessCdrProcessor::ProcessCdrThread():ECaught:Value cannot be null.
+Parameter name: to   at System.Net.Mail.MailMessage..ctor(String from, String to)
+   at System.Net.Mail.MailMessage..ctor(String from, String to, String subject, String body)
+   at Strata8.Wireless.Cdr.Reporting.WirelessCdrProcessor.SendCsvReport(String fileToSend) in D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\WirelessReportingSvc\WirelessCdrProcessor.cs:line 722
+   at Strata8.Wireless.Cdr.Reporting.WirelessCdrProcessor.ProcessCdrThread() in D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\WirelessReportingSvc\WirelessCdrProcessor.cs:line 881
+11/18/2009 10:25:44 AM WirelessReportDbMgr::OpenDataConn():A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+11/18/2009 10:26:26 AM WirelessReportDbMgr::GetOmcCdrs():A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+11/18/2009 10:26:30 AM WirelessCdrProcessor::SendReportNotification():ECaught:Command parameter not implemented. The server response was: 5.5.2 <strata8-1932357>: Helo command rejected: need fully-qualified hostname   at System.Net.Mail.RecipientCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Strata8.Wireless.Cdr.Reporting.WirelessCdrProcessor.SendCallReportNotificationHtml(List`1 vzwVoiceList, List`1 sprintVoiceList, List`1 vzwSmsList, List`1 sprintSmsList, WTotalsReport reportTotals, WTotalsReport sprintTotals, DateTime reportEndTime, DateTime reportStartTime, String emailList) in D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\WirelessReportingSvc\WirelessCdrProcessor.cs:line 668
+11/18/2009 10:27:15 AM WirelessReportDbMgr::OpenDataConn():A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+11/18/2009 10:27:57 AM WirelessReportDbMgr::GetOmcCdrs():A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+11/18/2009 10:28:00 AM WirelessCdrProcessor::SendReportNotification():ECaught:Command parameter not implemented. The server response was: 5.5.2 <strata8-1932357>: Helo command rejected: need fully-qualified hostname   at System.Net.Mail.RecipientCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Strata8.Wireless.Cdr.Reporting.WirelessCdrProcessor.SendCallReportNotificationHtml(List`1 vzwVoiceList, List`1 sprintVoiceList, List`1 vzwSmsList, List`1 sprintSmsList, WTotalsReport reportTotals, WTotalsReport sprintTotals, DateTime reportEndTime, DateTime reportStartTime, String emailList) in D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\WirelessReportingSvc\WirelessCdrProcessor.cs:line 668
+11/18/2009 10:28:34 AM WirelessCdrProcessor::PostFileToSite():ECaught:Unable to connect to the remote server
+   at System.Net.FtpWebRequest.GetRequestStream()
+   at Strata8.Wireless.Cdr.Reporting.WirelessCdrProcessor.PostFileToSite(String ftpSiteName, String user, String pass, String fileName) in D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\WirelessReportingSvc\WirelessCdrProcessor.cs:line 975
+11/18/2009 10:29:35 AM WirelessReportDbMgr::OpenDataConn():A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+11/18/2009 10:29:35 AM WirelessReportDbMgr::GetOmcCdrs():A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+11/18/2009 10:29:38 AM WirelessCdrProcessor::SendReportNotification():ECaught:Command parameter not implemented. The server response was: 5.5.2 <strata8-1932357>: Helo command rejected: need fully-qualified hostname   at System.Net.Mail.RecipientCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Strata8.Wireless.Cdr.Reporting.WirelessCdrProcessor.SendCallReportNotificationHtml(List`1 vzwVoiceList, List`1 sprintVoiceList, List`1 vzwSmsList, List`1 sprintSmsList, WTotalsReport reportTotals, WTotalsReport sprintTotals, DateTime reportEndTime, DateTime reportStartTime, String emailList) in D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\WirelessReportingSvc\WirelessCdrProcessor.cs:line 668
+11/18/2009 10:29:39 AM WirelessReportDbMgr::OpenDataConn():A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+11/18/2009 10:29:39 AM WirelessReportDbMgr::GetOmcCdrs():A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+11/18/2009 10:29:42 AM WirelessCdrProcessor::SendReportNotification():ECaught:Command parameter not implemented. The server response was: 5.5.2 <strata8-1932357>: Helo command rejected: need fully-qualified hostname   at System.Net.Mail.RecipientCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Strata8.Wireless.Cdr.Reporting.WirelessCdrProcessor.SendCallReportNotificationHtml(List`1 vzwVoiceList, List`1 sprintVoiceList, List`1 vzwSmsList, List`1 sprintSmsList, WTotalsReport reportTotals, WTotalsReport sprintTotals, DateTime reportEndTime, DateTime reportStartTime, String emailList) in D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\WirelessReportingSvc\WirelessCdrProcessor.cs:line 668
+11/18/2009 10:30:06 AM WirelessCdrProcessor::PostFileToSite():ECaught:Unable to connect to the remote server
+   at System.Net.FtpWebRequest.GetRequestStream()
+   at Strata8.Wireless.Cdr.Reporting.WirelessCdrProcessor.PostFileToSite(String ftpSiteName, String user, String pass, String fileName) in D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\WirelessReportingSvc\WirelessCdrProcessor.cs:line 975
+11/18/2009 10:32:39 AM WirelessReportDbMgr::OpenDataConn():A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+11/18/2009 10:32:39 AM WirelessReportDbMgr::GetOmcCdrs():A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+11/18/2009 10:32:39 AM WirelessCdrProcessor::SendReportNotification():ECaught:Command parameter not implemented. The server response was: 5.5.2 <strata8-1932357>: Helo command rejected: need fully-qualified hostname   at System.Net.Mail.RecipientCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Strata8.Wireless.Cdr.Reporting.WirelessCdrProcessor.SendCallReportNotificationHtml(List`1 vzwVoiceList, List`1 sprintVoiceList, List`1 vzwSmsList, List`1 sprintSmsList, WTotalsReport reportTotals, WTotalsReport sprintTotals, DateTime reportEndTime, DateTime reportStartTime, String emailList) in D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\WirelessReportingSvc\WirelessCdrProcessor.cs:line 668
+11/18/2009 10:33:27 AM WirelessReportDbMgr::OpenDataConn():A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+11/18/2009 10:33:27 AM WirelessReportDbMgr::GetOmcCdrs():A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+11/18/2009 10:33:27 AM WirelessCdrProcessor::SendReportNotification():ECaught:Command parameter not implemented. The server response was: 5.5.2 <strata8-1932357>: Helo command rejected: need fully-qualified hostname   at System.Net.Mail.RecipientCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Strata8.Wireless.Cdr.Reporting.WirelessCdrProcessor.SendCallReportNotificationHtml(List`1 vzwVoiceList, List`1 sprintVoiceList, List`1 vzwSmsList, List`1 sprintSmsList, WTotalsReport reportTotals, WTotalsReport sprintTotals, DateTime reportEndTime, DateTime reportStartTime, String emailList) in D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\WirelessReportingSvc\WirelessCdrProcessor.cs:line 668
+11/18/2009 10:33:57 AM WirelessCdrProcessor::PostFileToSite():ECaught:Unable to connect to the remote server
+   at System.Net.FtpWebRequest.GetRequestStream()
+   at Strata8.Wireless.Cdr.Reporting.WirelessCdrProcessor.PostFileToSite(String ftpSiteName, String user, String pass, String fileName) in D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\WirelessReportingSvc\WirelessCdrProcessor.cs:line 982
+11/18/2009 10:34:08 AM WirelessCdrProcessor::SendCSVReport():ECaught:Command parameter not implemented. The server response was: 5.5.2 <strata8-1932357>: Helo command rejected: need fully-qualified hostname   at System.Net.Mail.RecipientCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Strata8.Wireless.Cdr.Reporting.WirelessCdrProcessor.SendCsvReport(String fileToSend) in D:\Documents and Settings\rhernandez\My Documents\Visual Studio 2008\Projects\Reporting\WirelessReportingSvc\WirelessCdrProcessor.cs:line 737
+9/27/2010 10:44:18 AM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+10/11/2010 8:36:31 AM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+10/11/2010 8:37:23 AM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+10/20/2010 1:57:53 PM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+10/20/2010 2:00:22 PM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+10/20/2010 2:04:11 PM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+10/20/2010 2:12:37 PM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+10/20/2010 2:15:15 PM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+10/20/2010 2:19:15 PM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+10/20/2010 2:41:20 PM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+10/20/2010 2:42:25 PM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+10/20/2010 2:42:58 PM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+10/20/2010 3:21:20 PM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+1/20/2011 2:30:30 PM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+1/20/2011 2:33:21 PM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+1/20/2011 2:46:47 PM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+1/21/2011 11:54:02 AM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+1/25/2011 11:39:38 AM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+1/25/2011 11:52:09 AM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+1/25/2011 11:56:48 AM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+1/25/2011 12:02:10 PM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+1/25/2011 2:08:16 PM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+1/25/2011 2:13:30 PM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+1/25/2011 2:16:13 PM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+1/25/2011 2:17:36 PM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+1/25/2011 2:24:40 PM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+1/25/2011 2:31:14 PM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+1/25/2011 2:38:48 PM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+1/25/2011 2:41:23 PM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+1/25/2011 2:42:55 PM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+1/25/2011 2:43:37 PM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+1/25/2011 2:44:32 PM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+1/25/2011 2:46:05 PM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+1/25/2011 2:51:12 PM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+1/25/2011 3:01:01 PM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+1/28/2011 10:37:15 AM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+1/28/2011 11:37:46 AM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+1/31/2011 11:37:59 AM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+1/31/2011 1:56:03 PM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+1/31/2011 3:43:31 PM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+2/1/2011 10:13:49 AM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+2/1/2011 10:26:19 AM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+2/1/2011 10:45:34 AM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+2/3/2011 11:34:29 AM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+2/3/2011 12:17:29 PM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+2/8/2011 2:44:59 PM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+2/8/2011 3:16:49 PM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+2/8/2011 3:20:58 PM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+2/8/2011 3:41:32 PM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+2/9/2011 2:11:33 PM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+2/9/2011 2:15:17 PM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+2/9/2011 2:16:45 PM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+2/9/2011 2:18:17 PM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+2/9/2011 2:19:51 PM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+2/9/2011 2:22:08 PM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+2/9/2011 2:24:07 PM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile
+2/9/2011 2:35:57 PM WirelessCdrProcessor::Ctor():UnableToCreateEventLogFile

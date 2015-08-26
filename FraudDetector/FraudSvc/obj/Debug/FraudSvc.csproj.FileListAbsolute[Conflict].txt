@@ -1,0 +1,22 @@
+D:\Documents and Settings\rhernandez\My Documents\Strata8\Source\Services\FraudSvc\trunk\bin\Debug\FraudSvc.exe.config
+D:\Documents and Settings\rhernandez\My Documents\Strata8\Source\Services\FraudSvc\trunk\obj\Debug\Strata8.Telephony.MiddleTier.Services.Fraud.FraudService.resources
+D:\Documents and Settings\rhernandez\My Documents\Strata8\Source\Services\FraudSvc\trunk\obj\Debug\FraudSvc.ProjectInstaller.resources
+D:\Documents and Settings\rhernandez\My Documents\Strata8\Source\Services\FraudSvc\trunk\obj\Debug\FraudSvc.csproj.GenerateResource.Cache
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\FraudDetector\FraudDetector\FraudSvc\trunk\bin\Debug\FraudSvc.exe.config
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\FraudDetector\FraudDetector\FraudSvc\trunk\bin\Debug\FraudSvc.exe
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\FraudDetector\FraudDetector\FraudSvc\trunk\bin\Debug\FraudSvc.pdb
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\FraudDetector\FraudDetector\FraudSvc\trunk\bin\Debug\FraudDetector.dll
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\FraudDetector\FraudDetector\FraudSvc\trunk\bin\Debug\FraudDetector.pdb
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\FraudDetector\FraudDetector\FraudSvc\trunk\bin\Debug\FraudDetector.xml
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\FraudDetector\FraudDetector\FraudSvc\trunk\obj\Debug\FraudSvc.csprojResolveAssemblyReference.cache
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\FraudDetector\FraudDetector\FraudSvc\trunk\obj\Debug\TruMobility.Services.Fraud.FraudService.resources
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\FraudDetector\FraudDetector\FraudSvc\trunk\obj\Debug\TruMobility.Services.Fraud.ProjectInstaller.resources
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\FraudDetector\FraudDetector\FraudSvc\trunk\obj\Debug\FraudSvc.csproj.GenerateResource.Cache
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\FraudDetector\FraudDetector\FraudSvc\trunk\obj\Debug\FraudSvc.exe
+D:\Documents and Settings\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\FraudDetector\FraudDetector\FraudSvc\trunk\obj\Debug\FraudSvc.pdb
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\FraudDetector\FraudSvc\obj\Debug\FraudSvc.csprojResolveAssemblyReference.cache
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\FraudDetector\FraudSvc\obj\Debug\TruMobility.Services.Fraud.FraudService.resources
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\FraudDetector\FraudSvc\obj\Debug\TruMobility.Services.Fraud.ProjectInstaller.resources
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\FraudDetector\FraudSvc\obj\Debug\FraudSvc.csproj.GenerateResource.Cache
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\FraudDetector\FraudSvc\obj\Debug\FraudSvc.exe
+C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\FraudDetector\FraudSvc\obj\Debug\FraudSvc.pdb

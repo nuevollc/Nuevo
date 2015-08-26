@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C4B31E4D-BE9E-4C18-924A-609976989A0C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CiberRecordTestApp</RootNamespace>
+    <AssemblyName>CiberRecordTestApp</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\CdrCiberDbMgr\CdrCiberDbMgr.csproj">
+      <Project>{7685D17E-1732-4C75-9C55-F56F923597A5}</Project>
+      <Name>CdrCiberDbMgr</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\CdrFormatter\CdrFormatter.csproj">
+      <Project>{DF2D1256-F18A-41AE-A692-664A3C6FC0AB}</Project>
+      <Name>CdrFormatter</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\CiberRating\CiberRating.csproj">
+      <Project>{2091E254-029B-4A07-BDCA-06293ACEDAFB}</Project>
+      <Name>CiberRating</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\CiberReader\CiberReader\CiberReader.csproj">
+      <Project>{500EF9A4-8FFC-4D0F-9FAE-D7027745326F}</Project>
+      <Name>CiberReader</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\CiberRecords\CiberRecords\CiberRecords.csproj">
+      <Project>{F547FDCF-BAD3-44FE-98C7-43AA134239BF}</Project>
+      <Name>CiberRecords</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\CiberTax\CiberTax.csproj">
+      <Project>{F3F565BD-6941-4C1C-85F7-38B8EDB1C5B5}</Project>
+      <Name>CiberTax</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\FileWriter\FileWriter.csproj">
+      <Project>{3AD21F67-F291-49C1-B850-A8723C8D981C}</Project>
+      <Name>FileWriter</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\NpaNxxImportReader\NpaNxxImportReader.csproj">
+      <Project>{8DCAEE06-9030-4808-B38B-F639E651BC9A}</Project>
+      <Name>NpaNxxImportReader</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\OmcCdr\FtpTest.cs\OmcFtp.csproj">
+      <Project>{29BEAB85-7182-4019-AFFF-C804AAAF8CA6}</Project>
+      <Name>OmcFtp</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\OmcCdr\OmcCdrProcessorSvc\OmcProcessorSvc\OmcCdrProcessorSvc.csproj">
+      <Project>{746661F4-350A-4100-A19E-2CAEF16F496D}</Project>
+      <Name>OmcCdrProcessorSvc</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\OmcCdr\OmcCdr\OmcCdr.csproj">
+      <Project>{89B111EF-6DBC-4571-BEE7-37A77C92D1DF}</Project>
+      <Name>OmcCdr</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\OmcCiberFileMgr\OmcCiberFileMgrSvc.csproj">
+      <Project>{FA6C13D0-430E-40FF-AF22-7FFF10F87ABA}</Project>
+      <Name>OmcCiberFileMgrSvc</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\OmcCiberHandler\OmcCiberHandler.csproj">
+      <Project>{05DB2857-EE24-44A9-9A1D-E036DB15EE14}</Project>
+      <Name>OmcCiberHandler</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\SyniverseMgr\SyniverseMgr.csproj">
+      <Project>{A59CAE43-D6B8-4ACC-81B8-726E1F37DDE1}</Project>
+      <Name>SyniverseMgr</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\TechDataSheet\TechDataSheetReader\TechDataSheetReader.csproj">
+      <Project>{61B51962-C7BC-4881-926B-CDC0BD125822}</Project>
+      <Name>TechDataSheetReader</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

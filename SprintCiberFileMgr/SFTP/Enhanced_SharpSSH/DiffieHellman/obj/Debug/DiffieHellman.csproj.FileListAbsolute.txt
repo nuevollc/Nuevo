@@ -1,0 +1,5 @@
+D:\Temp\Blog\SharpSSH\DiffieHellman\bin\Debug\DiffieHellman.dll
+D:\Temp\Blog\SharpSSH\DiffieHellman\bin\Debug\DiffieHellman.pdb
+D:\Temp\Blog\SharpSSH\DiffieHellman\obj\Debug\ResolveAssemblyReference.cache
+D:\Temp\Blog\SharpSSH\DiffieHellman\obj\Debug\DiffieHellman.dll
+D:\Temp\Blog\SharpSSH\DiffieHellman\obj\Debug\DiffieHellman.pdb

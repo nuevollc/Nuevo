@@ -1,0 +1,11 @@
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\ClassLibrary1\WindowsService1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\ClassLibrary1\WindowsService1\bin\Debug\WindowsService1.exe
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\ClassLibrary1\WindowsService1\bin\Debug\WindowsService1.pdb
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\ClassLibrary1\WindowsService1\bin\Debug\ClassLibrary1.dll
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\ClassLibrary1\WindowsService1\bin\Debug\Tamir.SharpSsh.dll
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\ClassLibrary1\WindowsService1\bin\Debug\DiffieHellman.dll
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\ClassLibrary1\WindowsService1\bin\Debug\ClassLibrary1.pdb
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\ClassLibrary1\WindowsService1\bin\Debug\Tamir.SharpSsh.pdb
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\ClassLibrary1\WindowsService1\bin\Debug\DiffieHellman.pdb
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\ClassLibrary1\WindowsService1\obj\x86\Debug\WindowsService1.exe
+C:\Users\rhernandez\Documents\Visual Studio 2010\Projects\SprintCiberFileMgr\SFTP\ClassLibrary1\WindowsService1\obj\x86\Debug\WindowsService1.pdb
