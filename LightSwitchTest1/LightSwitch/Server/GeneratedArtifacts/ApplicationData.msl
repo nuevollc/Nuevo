@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping CdmEntityContainer="ApplicationDataObjectContext" StorageEntityContainer="ApplicationDataStore">
+    <EntitySetMapping Name="Subscriber">
+      <EntityTypeMapping TypeName="IsTypeOf(LightSwitchApplication.SubscriberItem)">
+        <MappingFragment StoreEntitySet="Subscriber">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="RowVersion" ColumnName="RowVersion" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="Comment" ColumnName="Comment" />
+          <ScalarProperty Name="GroupId" ColumnName="GroupId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Phone">
+      <EntityTypeMapping TypeName="IsTypeOf(LightSwitchApplication.PhoneItem)">
+        <MappingFragment StoreEntitySet="Phone">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="RowVersion" ColumnName="RowVersion" />
+          <ScalarProperty Name="MDN" ColumnName="MDN" />
+          <ScalarProperty Name="MSID" ColumnName="MSID" />
+          <ScalarProperty Name="MEID" ColumnName="MEID" />
+          <ScalarProperty Name="ESN" ColumnName="ESN" />
+          <ScalarProperty Name="MSL" ColumnName="MSL" />
+          <ScalarProperty Name="Active" ColumnName="Active" />
+          <ScalarProperty Name="DeviceType" ColumnName="DeviceType" />
+          <ScalarProperty Name="Manufacturer" ColumnName="Manufacturer" />
+          <ScalarProperty Name="Comment" ColumnName="Comment" />
+          <ScalarProperty Name="PhoneType" ColumnName="PhoneType" />
+          <ScalarProperty Name="PhoneItem_SubscriberItem" ColumnName="PhoneItem_SubscriberItem" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ServicePlans">
+      <EntityTypeMapping TypeName="IsTypeOf(LightSwitchApplication.ServicePlan)">
+        <MappingFragment StoreEntitySet="ServicePlans">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="RowVersion" ColumnName="RowVersion" />
+          <ScalarProperty Name="InternationalDialing" ColumnName="InternationalDialing" />
+          <ScalarProperty Name="VoicePlan" ColumnName="VoicePlan" />
+          <ScalarProperty Name="DataPlan" ColumnName="DataPlan" />
+          <ScalarProperty Name="HotSpot" ColumnName="HotSpot" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

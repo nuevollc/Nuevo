@@ -1,0 +1,92 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "VoiceMailProvisioning", "..\..\..\Technical\Nuevo\software\VoiceMailProvisioning\", "{C5C2C179-B05C-48FA-9FFD-C5EA9ECD2032}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/VoiceMailProvisioning"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\Technical\Nuevo\software\VoiceMailProvisioning\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\VoiceMailProvisioning\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/VoiceMailProvisioning"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\Technical\Nuevo\software\VoiceMailProvisioning\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\VoiceMailProvisioning\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1696"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoiceMailProvisioningTestApp", "VoiceMailProvisioningTestApp\VoiceMailProvisioningTestApp.csproj", "{6A6144B4-F577-471D-A175-6593D58E35DE}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "VoiceMailProvisioningSvc", "VoiceMailProvisioningSvc\", "{79B9DE64-FD3A-4C8A-A89D-0DBC877CFE7A}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/VoiceMailProvisioningSvc"
+		Debug.AspNetCompiler.PhysicalPath = "VoiceMailProvisioningSvc\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\VoiceMailProvisioningSvc\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/VoiceMailProvisioningSvc"
+		Release.AspNetCompiler.PhysicalPath = "VoiceMailProvisioningSvc\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\VoiceMailProvisioningSvc\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "4850"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Release|.NET = Release|.NET
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5C2C179-B05C-48FA-9FFD-C5EA9ECD2032}.Debug|.NET.ActiveCfg = Debug|.NET
+		{C5C2C179-B05C-48FA-9FFD-C5EA9ECD2032}.Debug|.NET.Build.0 = Debug|.NET
+		{C5C2C179-B05C-48FA-9FFD-C5EA9ECD2032}.Debug|Any CPU.ActiveCfg = Debug|.NET
+		{C5C2C179-B05C-48FA-9FFD-C5EA9ECD2032}.Debug|Mixed Platforms.ActiveCfg = Debug|.NET
+		{C5C2C179-B05C-48FA-9FFD-C5EA9ECD2032}.Debug|Mixed Platforms.Build.0 = Debug|.NET
+		{C5C2C179-B05C-48FA-9FFD-C5EA9ECD2032}.Release|.NET.ActiveCfg = Debug|.NET
+		{C5C2C179-B05C-48FA-9FFD-C5EA9ECD2032}.Release|.NET.Build.0 = Debug|.NET
+		{C5C2C179-B05C-48FA-9FFD-C5EA9ECD2032}.Release|Any CPU.ActiveCfg = Debug|.NET
+		{C5C2C179-B05C-48FA-9FFD-C5EA9ECD2032}.Release|Mixed Platforms.ActiveCfg = Debug|.NET
+		{C5C2C179-B05C-48FA-9FFD-C5EA9ECD2032}.Release|Mixed Platforms.Build.0 = Debug|.NET
+		{6A6144B4-F577-471D-A175-6593D58E35DE}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{6A6144B4-F577-471D-A175-6593D58E35DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A6144B4-F577-471D-A175-6593D58E35DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A6144B4-F577-471D-A175-6593D58E35DE}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{6A6144B4-F577-471D-A175-6593D58E35DE}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{6A6144B4-F577-471D-A175-6593D58E35DE}.Release|.NET.ActiveCfg = Release|Any CPU
+		{6A6144B4-F577-471D-A175-6593D58E35DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A6144B4-F577-471D-A175-6593D58E35DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A6144B4-F577-471D-A175-6593D58E35DE}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{6A6144B4-F577-471D-A175-6593D58E35DE}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{79B9DE64-FD3A-4C8A-A89D-0DBC877CFE7A}.Debug|.NET.ActiveCfg = Debug|.NET
+		{79B9DE64-FD3A-4C8A-A89D-0DBC877CFE7A}.Debug|.NET.Build.0 = Debug|.NET
+		{79B9DE64-FD3A-4C8A-A89D-0DBC877CFE7A}.Debug|Any CPU.ActiveCfg = Debug|.NET
+		{79B9DE64-FD3A-4C8A-A89D-0DBC877CFE7A}.Debug|Mixed Platforms.ActiveCfg = Debug|.NET
+		{79B9DE64-FD3A-4C8A-A89D-0DBC877CFE7A}.Debug|Mixed Platforms.Build.0 = Debug|.NET
+		{79B9DE64-FD3A-4C8A-A89D-0DBC877CFE7A}.Release|.NET.ActiveCfg = Debug|.NET
+		{79B9DE64-FD3A-4C8A-A89D-0DBC877CFE7A}.Release|.NET.Build.0 = Debug|.NET
+		{79B9DE64-FD3A-4C8A-A89D-0DBC877CFE7A}.Release|Any CPU.ActiveCfg = Debug|.NET
+		{79B9DE64-FD3A-4C8A-A89D-0DBC877CFE7A}.Release|Mixed Platforms.ActiveCfg = Debug|.NET
+		{79B9DE64-FD3A-4C8A-A89D-0DBC877CFE7A}.Release|Mixed Platforms.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

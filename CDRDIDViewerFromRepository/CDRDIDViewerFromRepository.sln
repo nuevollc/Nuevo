@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "trunk", "..\..\..\Strata8\Source\WebSites\CdrDidViewer\trunk\", "{B98AF267-CC67-46C2-94CB-FF785DCF3A00}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/trunk"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\Strata8\Source\WebSites\CdrDidViewer\trunk\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\trunk\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/trunk"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\Strata8\Source\WebSites\CdrDidViewer\trunk\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\trunk\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "2965"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B98AF267-CC67-46C2-94CB-FF785DCF3A00}.Debug|.NET.ActiveCfg = Debug|.NET
+		{B98AF267-CC67-46C2-94CB-FF785DCF3A00}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

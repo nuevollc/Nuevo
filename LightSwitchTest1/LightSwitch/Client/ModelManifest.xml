@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ModelDocumentManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Documents>
+    <Document FullPath="C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\LightSwitchTest1\LightSwitch\Client\Properties\Client.lsml" Checksum="400A7605E2D63CCC8304E002B91F441F82785C42B57DC4EBB4EA6BD3421CCD4D" />
+    <Document FullPath="C:\Users\rhernandez\Google Drive\Nuevo\Software\VisualStudio2010\Projects\LightSwitchTest1\LightSwitch\Common\Properties\Common.lsml" Checksum="FB8FB67F9CAF9DA15DB192DBE0F0C799F4CCBDA2DE86E945B9BA57E292003E7A" />
+  </Documents>
+</ModelDocumentManifest>

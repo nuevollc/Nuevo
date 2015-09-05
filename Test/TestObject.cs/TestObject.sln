@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestObject", "TestObject.csproj", "{81281ACF-B265-417B-9494-DD856812E9B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SftpHandler", "..\..\Ciber\SftpHandler\SftpHandler.csproj", "{31C159C2-9054-4B0E-9199-81CDCC57A0CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpSSH", "..\..\SharpSSH-1.1.1.13.src\SharpSSH\SharpSSH.csproj", "{D27CF69D-4681-492A-BE4D-D3D209104423}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SftpTestApp", "..\SftpTestApp\SftpTestApp.csproj", "{1BF131CD-A1E1-46EB-A656-D46035E4FEC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SftpHandlerSvc", "..\..\Ciber\SftpHandlerSvc\SftpHandlerSvc.csproj", "{CBB15A01-4AF0-4410-8839-3D7D0FFE4F96}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SftpHandlerSvcSetup", "..\..\Ciber\SftpHandlerSvcSetup\SftpHandlerSvcSetup.vdproj", "{17A5385D-2E69-4C01-A277-1FFC52892D49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81281ACF-B265-417B-9494-DD856812E9B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81281ACF-B265-417B-9494-DD856812E9B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81281ACF-B265-417B-9494-DD856812E9B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81281ACF-B265-417B-9494-DD856812E9B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31C159C2-9054-4B0E-9199-81CDCC57A0CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31C159C2-9054-4B0E-9199-81CDCC57A0CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31C159C2-9054-4B0E-9199-81CDCC57A0CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31C159C2-9054-4B0E-9199-81CDCC57A0CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D27CF69D-4681-492A-BE4D-D3D209104423}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D27CF69D-4681-492A-BE4D-D3D209104423}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D27CF69D-4681-492A-BE4D-D3D209104423}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D27CF69D-4681-492A-BE4D-D3D209104423}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BF131CD-A1E1-46EB-A656-D46035E4FEC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BF131CD-A1E1-46EB-A656-D46035E4FEC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BF131CD-A1E1-46EB-A656-D46035E4FEC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BF131CD-A1E1-46EB-A656-D46035E4FEC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBB15A01-4AF0-4410-8839-3D7D0FFE4F96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBB15A01-4AF0-4410-8839-3D7D0FFE4F96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBB15A01-4AF0-4410-8839-3D7D0FFE4F96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBB15A01-4AF0-4410-8839-3D7D0FFE4F96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17A5385D-2E69-4C01-A277-1FFC52892D49}.Debug|Any CPU.ActiveCfg = Debug
+		{17A5385D-2E69-4C01-A277-1FFC52892D49}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

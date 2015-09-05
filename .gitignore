@@ -258,3 +258,6 @@ FakesAssemblies/
 **/*.Server/GeneratedArtifacts
 **/*.Server/ModelManifest.xml
 _Pvt_Extensions
+CdrHandler/.svn/entries
+CdrHandler/.svn/format
+CdrHandler/.svn/format

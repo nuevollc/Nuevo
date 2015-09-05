@@ -1,0 +1,194 @@
+package com.strata8.clients.oci;
+
+import java.security.MessageDigest;
+import java.io.UnsupportedEncodingException;
+
+import OCIClient.net.strata8.lab.ews1.BWProvisioningServiceService;
+
+/**
+ * Summary description for S8OCIClient
+ */
+public class OCIUtilClient
+{
+	private static String charSet = System.getProperty("file.encoding", "ISO-8859-1");
+
+	private static MessageDigest sha;
+	private static final int shaOutputLength = 40;  // 20 bytes * 2 chars/byte
+
+	private static MessageDigest md5;
+	private static final int md5OutputLength = 32;
+
+	// bworks soap interface object
+	private static OCIClient.net.strata8.lab.ews1.BWProvisioningServiceService bp;
+	
+
+	static
+	{
+		try
+		{
+			sha = MessageDigest.getInstance("SHA");
+		}
+		catch (Exception e)
+		{
+			System.err.println("Failed to initialize SHA MessageDigest, Exception: " + e.getMessage());
+		}
+
+		try
+		{
+			md5 = MessageDigest.getInstance("MD5");
+		}
+		catch (Exception e)
+		{
+			System.err.println("Failed to initialize MD5 MessageDigest, Exception: " + e.getMessage());
+		}
+		try
+		{
+			bp = new OCIClient.net.strata8.lab.ews1.BWProvisioningServiceService();
+			
+		}
+		catch (Exception e)
+		{
+			System.err.println("Failed to initialize MD5 MessageDigest, Exception: " + e.getMessage());
+		}
+	}
+
+	//
+	// method that sends the OCI message to the bworks platform
+	//
+	public static String SendOCIMsg(String theMsg)
+	{
+		String xmlResponse = String.Empty;
+		try
+		{
+			// bp = new BWProvisioningServiceService();
+
+			// we use our static service to send message
+			xmlResponse = bp.processOCIMessage(theMsg);
+		}
+		catch (System.Exception ex)
+		{
+			System.Console.WriteLine("ECaught:" + ex.get_Message() + "  StackTrace: " + ex.get_StackTrace() );
+		}
+
+		return xmlResponse;
+
+	}//sendMsg
+
+	public static String ComputeMessageDigest(String password, String nonceValue )
+	{
+
+		String S1 = OCIUtilClient.shaMessageDigest(password);
+
+		// create S2 that is used to create the digest using MD5
+		// S2 = nonceValue + : + S1 (nonce is from the bworks auth response message
+		String passwordDigest = OCIUtilClient.md5MessageDigest(nonceValue + ":" + S1);
+
+		return passwordDigest;
+
+	}
+	public static String shaMessageDigest(String plainText)
+	{
+		synchronized (sha)
+		{
+			// If message digest object wasn't initialized, then we're not
+			// using this type of secure encoding.
+			if (sha == null) return plainText;
+			byte[] digestBytes;
+
+			try
+			{
+				digestBytes = sha.digest(plainText.getBytes(charSet));
+			}
+			catch (UnsupportedEncodingException e)
+			{
+				System.err.println("SHA Digest UnsupportedEncodingException: " + e.getMessage());
+				return null;
+			}
+			// We use the digest in ASCII Hex format (ASCII-encoded nibbles).  Convert.
+			// for every 4 bits in the 160-bit digest, convert into a char is ASCII hex format.
+			// the result is a 40-bit character string.
+			char[] asciiDigestBytes = new char[shaOutputLength];
+			for (int i = 0; i < (shaOutputLength / 2); i++)
+			{
+				int outputOffset = i * 2;
+				byte thisByte = digestBytes[i];
+				char upperNibble = toAsciiHexNibble((thisByte & 0xF0) >> 4);
+				char lowerNibble = toAsciiHexNibble(thisByte & 0x0F);
+			
+				// original
+				asciiDigestBytes[outputOffset] =  upperNibble;
+				asciiDigestBytes[outputOffset + 1] = lowerNibble;
+			}
+
+			String result = new String(asciiDigestBytes);
+
+			sha.reset();
+			return result;
+		}
+	}
+
+	public static String md5MessageDigest(String plainText)
+	{
+		synchronized (md5)
+		{
+			// If message digest object wasn't initialized, then we're not
+			// using this type of secure encoding.
+			if (md5 == null) return plainText;
+
+			// MessageDigest needs a byte[];
+			byte[] plainBytes = null;
+
+			try
+			{
+				plainBytes = plainText.getBytes(charSet);
+			}
+			catch (UnsupportedEncodingException e)
+			{
+				System.err.println("MD5 Digest UnsupportedEncodingException: " + e.getMessage());
+				return null;
+			}
+
+			// This should be 16 bytes * 8 bits/byte = 128 bit digest
+			byte[] digestBytes = md5.digest(plainBytes);
+
+			// We use the digest in ASCII Hex format (ASCII-encoded nibbles).  Convert.
+			// for every 4 bits in the 128-bit digest, convert into a char is ASCII hex format.
+			// the result is a 32-bit character string.
+
+			char[] asciiDigestBytes = new char[md5OutputLength];
+			for (int i = 0; i < (md5OutputLength / 2); i++)
+			{
+				int outputOffset = i * 2;
+				byte thisByte = digestBytes[i];
+				char upperNibble = toAsciiHexNibble((thisByte & 0xF0) >> 4);
+				char lowerNibble = toAsciiHexNibble(thisByte & 0x0F);
+
+				// modified
+				//asciiDigestBytes[outputOffset] = lowerNibble;//upperNibble;
+				//asciiDigestBytes[outputOffset + 1] = upperNibble; // lowerNibble;	
+
+				// original
+				asciiDigestBytes[outputOffset] = upperNibble;
+				asciiDigestBytes[outputOffset + 1] = lowerNibble;
+			}
+			String result = new String(asciiDigestBytes);
+			return result;
+		}
+	}
+   
+	private static char toAsciiHexNibble(int hexValue)
+	{
+		char returnValue = '!';   // default
+		if ((hexValue >= 0) && (hexValue <= 9))
+		{
+			returnValue = (char)((int)'0' + hexValue);
+		}
+		else if ((hexValue >= 0x000A) && (hexValue <= 0x000F))
+		{
+			returnValue = (char)((int)'a' + (hexValue - 0x000A));
+		}
+		return returnValue;
+	}
+
+
+}
