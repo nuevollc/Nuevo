@@ -36,6 +36,8 @@ namespace Nuevo.CallCruncher.CDR.FTP
         // processing thread
         private Thread m_procThread;
 
+        private FileSystemWatcher _watchFile = null;
+
         public FtpMgr()
 
         {
@@ -55,13 +57,18 @@ namespace Nuevo.CallCruncher.CDR.FTP
             try
             {
                 // create the Watcher for file type in the watchfolder; config params
-                FileSystemWatcher WatchFile = new FileSystemWatcher(_watchFolder, _fileType);
+                _watchFile = new FileSystemWatcher(_watchFolder, _fileType);
 
                 // Watch for changes in LastAccess and LastWrite times
-                WatchFile.NotifyFilter = NotifyFilters.CreationTime | NotifyFilters.LastAccess | NotifyFilters.LastWrite;
-                WatchFile.Created += new FileSystemEventHandler(this.ProcessFileWatcher);
-                WatchFile.Changed += new FileSystemEventHandler(this.ProcessFileWatcher);
-                WatchFile.EnableRaisingEvents = true;
+                _watchFile.NotifyFilter = NotifyFilters.LastWrite  | NotifyFilters.CreationTime |
+                    NotifyFilters.LastAccess | NotifyFilters.FileName | NotifyFilters.DirectoryName;
+
+                // Add event handlers.
+                _watchFile.Renamed += new RenamedEventHandler(this.OnRenamed);
+                _watchFile.Created += new FileSystemEventHandler(this.OnFileCreated);
+                _watchFile.Changed += new FileSystemEventHandler(this.OnFileChanged);
+
+                _watchFile.EnableRaisingEvents = true;
 
                 // configure the file name FIFO queue
                 Queue aQ = new Queue(100);
@@ -108,13 +115,7 @@ namespace Nuevo.CallCruncher.CDR.FTP
             }
         }
 
-        /// <summary>
-        /// ProcessFileWatcher: Method that monitors the directory and queues up
-        /// the file to be processed onto the queue for processing.
-        /// </summary>
-        /// <param name="sender"></param>
-        /// <param name="e"></param>
-        private void ProcessFileWatcher(object sender, FileSystemEventArgs e)
+        private void OnRenamed(object source, RenamedEventArgs e)
         {
             try
             {
@@ -128,24 +129,70 @@ namespace Nuevo.CallCruncher.CDR.FTP
             }
             catch (System.Exception ex)
             {
-                LogIt("FtpMgr::ProcessFileWatcher()::ExceptionCaught:" + ex.Message);
+                LogIt("FtpMgr::OnRenamed()::ExceptionCaught:" + ex.Message);
+            }
+        }
+
+        /// <summary>
+        /// ProcessFileWatcher: Method that monitors the directory and queues up
+        /// the file to be processed onto the queue for processing.
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void OnFileChanged(object sender, FileSystemEventArgs e)
+        {
+            try
+            {
+                // lock the root
+                lock (m_fileNameQ.SyncRoot)
+                {
+                    // enqueue the new filename
+                    m_fileNameQ.Enqueue(e.FullPath);
+
+                }//lock(m_fileNameQ.SyncRoot)
+            }
+            catch (System.Exception ex)
+            {
+                LogIt("FtpMgr::ProcessFileChanged()::ExceptionCaught:" + ex.Message);
             }
 
         }//private void ProcessFileWatcher(object sender, FileSystemEventArgs e)
 
         /// <summary>
+        /// ProcessFileWatcher: Method that monitors the directory and queues up
+        /// the file to be processed onto the queue for processing.
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void OnFileCreated(object sender, FileSystemEventArgs e)
+        {
+            try
+            {
+                // lock the root
+                lock (m_fileNameQ.SyncRoot)
+                {
+                    // enqueue the new filename
+                    m_fileNameQ.Enqueue(e.FullPath);
+
+                }//lock(m_fileNameQ.SyncRoot)
+            }
+            catch (System.Exception ex)
+            {
+                LogIt("FtpMgr::ProcessFileCreated()::ExceptionCaught:" + ex.Message);
+            }
+
+        }//private void ProcessFileWatcher(object sender, FileSystemEventArgs e)
+        /// <summary>
         /// ProcessJobControlFileThread:Method that blocks on the file Q waiting for a file
         /// to be queued up that needs to be processed.
         /// </summary>
         private void ProcessFileThread()
-        {
-            string fileName = String.Empty;
-            string fName = String.Empty;
+        { 
             try
             {
                 while (true)
                 {
-                    fName = String.Empty;
+                    string fName = String.Empty;
                     try
                     {
                         if (m_fileNameQ.Count > 0)
@@ -170,12 +217,12 @@ namespace Nuevo.CallCruncher.CDR.FTP
                     }//try
                     catch (System.Threading.ThreadAbortException ta)
                     {
-                        LogIt("FtpMgr::ProcessJobControlFileThread()::ExceptionCaught:" + ta.Message);
+                        LogIt("FtpMgr::ProcessFileThread()::ExceptionCaught:File:" + fName + "::"+ ta.Message);
                         return;
                     }
                     catch (System.Exception ex)
                     {// generic system exception
-                        LogIt("FtpMgr::ProcessJobControlFileThread()::ExceptionCaught:" + ex.Message);
+                        LogIt("FtpMgr::ProcessFileThread()::ExceptionCaught:File:" + fName + "::" + ex.Message);
                     }
 
                     System.Threading.Thread.Sleep(m_ProcessThreadIntervalInMSecs);
@@ -185,36 +232,14 @@ namespace Nuevo.CallCruncher.CDR.FTP
             }
             catch (System.Threading.ThreadAbortException ta)
             {
-                LogIt("FtpMgr::ProcessJobControlFileThread()::ExceptionCaught:" + ta.Message);
+                LogIt("FtpMgr::ProcessFileThread()::ExceptionCaught:" + ta.Message);
             }
             catch (System.Exception ex)
             {
-                LogIt("FtpMgr::ProcessJobControlFileThread()::ExceptionCaught:" + ex.Message);
+                LogIt("FtpMgr::ProcessFileThread()::ExceptionCaught:" + ex.Message);
             }// catch
 
         }// private void ProcessJobControlFile()
-
-
-        /// <summary>
-        /// private method to post the file
-        /// </summary>
-        /// <param name="fileName"></param>
-        /// <returns></returns>
-        private void ProcessTheFile(string fileName)
-        {
-            try
-            {
-                this.PostFileToSite(fileName);
-
-            }// try
-            catch (Exception e)
-            {
-                LogIt("FtpMgr::ParseTheCdr()::ExceptionCaught:" + e.Message);
-            }// catch
-
-            return;
-        }// private void ParseJobControlFile()
-
 
         private void MoveTheFile(string fileName)
         {
@@ -240,7 +265,7 @@ namespace Nuevo.CallCruncher.CDR.FTP
             }
             catch (System.IO.IOException ex)
             {// file already exists?
-                LogIt("FtpMgr::MoveTheFile()::ExceptionCaught:" + ex.Message);
+                LogIt("FtpMgr::MoveTheFile()::IOExceptionCaught:" + ex.Message);
             }
 
         }// MoveTheFile()
@@ -292,7 +317,6 @@ namespace Nuevo.CallCruncher.CDR.FTP
 
         }
 
-
         /// <summary>
         /// method to upload the contents of a file from a remote URI
         /// </summary>
@@ -302,14 +326,6 @@ namespace Nuevo.CallCruncher.CDR.FTP
         /// <returns></returns>
         public void PostFileToSite(string fileName)
         { 
-            string parsedFileName = string.Empty;
-            Uri ftpUri = null;
-
-            parsedFileName = ParseFileName(fileName);
-            // contains the URI path and filename to upload to the remote server
-            UriBuilder ub = new UriBuilder("ftp", _ftpSite.Site, -1, "/" + parsedFileName + ".csv");
-            ftpUri = ub.Uri;
-
             try
             {
                 using (FtpLib.FtpConnection ftp = new FtpLib.FtpConnection(_ftpSite.Site, _ftpSite.Username, _ftpSite.Password))
@@ -337,8 +353,6 @@ namespace Nuevo.CallCruncher.CDR.FTP
              
         }
   
-
-
         public void Test()
         {
             string f = @"\testFile.txt";

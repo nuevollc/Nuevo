@@ -532,8 +532,7 @@ namespace Strata8.Telephony.MiddleTier.Services.CDR
 
             return theControls;
         }// private void ParseJobControlFile()
-
-        
+     
         private void MoveTheFile(string fileName)
         {
             // move the file

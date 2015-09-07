@@ -340,7 +340,8 @@
 		<col def="S0">ISDotNetInstallerArgsUninstall</col>
 		<col def="S0">ISDotNetInstallerArgsRollback</col>
 		<row><td>FTPMgr.Primary_output</td><td>{F6779F34-E4B4-4C10-9E44-2F331ECF6FA2}</td><td>INSTALLDIR</td><td>2</td><td/><td>ftpmgr.primary_output</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>FtpMgrSvc.Primary_output</td><td>{DB43043E-BD8F-441C-A9DB-B9E492083DEF}</td><td>INSTALLDIR</td><td>2</td><td/><td>ftpmgrsvc.primary_output</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>FTPMgr.Primary_output1</td><td>{5B89579D-3F2C-4507-A79E-77AE593D259A}</td><td>INSTALLDIR</td><td>2</td><td/><td>ftpmgr.primary_output</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>FtpMgrSvc.Primary_output</td><td>{44BC27FE-0DB5-4F81-9FA0-E43C2234FC75}</td><td>INSTALLDIR</td><td>2</td><td/><td>ftpmgrsvc.primary_output</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 		<row><td>LogFileMgr.Primary_output</td><td>{496EBB47-EB19-489F-9DB0-982F4EC05B16}</td><td>INSTALLDIR</td><td>2</td><td/><td>logfilemgr.primary_output</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 	</table>
 
@@ -1051,6 +1052,7 @@
 		<col key="yes" def="s72">Directory_</col>
 		<col key="yes" def="s72">Component_</col>
 		<row><td>INSTALLDIR</td><td>FTPMgr.Primary_output</td></row>
+		<row><td>INSTALLDIR</td><td>FTPMgr.Primary_output1</td></row>
 		<row><td>INSTALLDIR</td><td>FtpMgrSvc.Primary_output</td></row>
 		<row><td>INSTALLDIR</td><td>LogFileMgr.Primary_output</td></row>
 	</table>
@@ -1866,6 +1868,7 @@
 		<col key="yes" def="s38">Feature_</col>
 		<col key="yes" def="s72">Component_</col>
 		<row><td>AlwaysInstall</td><td>FTPMgr.Primary_output</td></row>
+		<row><td>AlwaysInstall</td><td>FTPMgr.Primary_output1</td></row>
 		<row><td>AlwaysInstall</td><td>FtpMgrSvc.Primary_output</td></row>
 		<row><td>AlwaysInstall</td><td>LogFileMgr.Primary_output</td></row>
 	</table>
@@ -1882,7 +1885,7 @@
 		<col def="S255">ISBuildSourcePath</col>
 		<col def="I4">ISAttributes</col>
 		<col def="S72">ISComponentSubFolder_</col>
-		<row><td>ftpmgr.primary_output</td><td>FTPMgr.Primary_output</td><td>FTPMgr.Primary output</td><td>0</td><td/><td/><td/><td>1</td><td>&lt;FTPMgr&gt;|Built</td><td>3</td><td/></row>
+		<row><td>ftpmgr.primary_output</td><td>FTPMgr.Primary_output1</td><td>FTPMgr.Primary output</td><td>0</td><td/><td/><td/><td>1</td><td>&lt;FTPMgr&gt;|Built</td><td>3</td><td/></row>
 		<row><td>ftpmgrsvc.primary_output</td><td>FtpMgrSvc.Primary_output</td><td>FtpMgrSvc.Primary output</td><td>0</td><td/><td/><td/><td>1</td><td>&lt;FtpMgrSvc&gt;|Built</td><td>3</td><td/></row>
 		<row><td>logfilemgr.primary_output</td><td>LogFileMgr.Primary_output</td><td>LogFileMgr.Primary output</td><td>0</td><td/><td/><td/><td>1</td><td>&lt;LogFileMgr&gt;|Built</td><td>3</td><td/></row>
 	</table>
@@ -2027,7 +2030,8 @@
 		<col def="S0">HTTPLocation</col>
 		<col def="S0">Miscellaneous</col>
 		<row><td>FTPMgr.Primary_output</td><td/><td/><td>_27504298_01B7_403E_A120_0004447A2F8F_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>FtpMgrSvc.Primary_output</td><td/><td/><td>_A43C5615_5B75_4398_92A3_2931AAE4C25A_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>FTPMgr.Primary_output1</td><td/><td/><td>_26647D21_42D1_4131_93E4_A3279EFA6A31_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>FtpMgrSvc.Primary_output</td><td/><td/><td>_E9EE2E79_8543_4FD4_BFD0_F27CD8F77A14_FILTER</td><td/><td/><td/><td/></row>
 		<row><td>LogFileMgr.Primary_output</td><td/><td/><td>_E9AE2667_05C0_421F_8D05_93DFBDA34FC0_FILTER</td><td/><td/><td/><td/></row>
 	</table>
 
@@ -2619,7 +2623,7 @@
 		<col def="I2">Encoded</col>
 		<col def="S0">Comment</col>
 		<col def="I4">TimeStamp</col>
-		<row><td>COMPANY_NAME</td><td>1033</td><td>NuevoLLC</td><td>0</td><td/><td>748881609</td></row>
+		<row><td>COMPANY_NAME</td><td>1033</td><td>NuevoLLC</td><td>0</td><td/><td>883115791</td></row>
 		<row><td>DN_AlwaysInstall</td><td>1033</td><td>Always Install</td><td>0</td><td/><td>748918568</td></row>
 		<row><td>IDPROP_EXPRESS_LAUNCH_CONDITION_COLOR</td><td>1033</td><td>The color settings of your system are not adequate for running [ProductName].</td><td>0</td><td/><td>748918568</td></row>
 		<row><td>IDPROP_EXPRESS_LAUNCH_CONDITION_OS</td><td>1033</td><td>The operating system is not adequate for running [ProductName].</td><td>0</td><td/><td>748918568</td></row>
@@ -3719,8 +3723,8 @@
 		<row><td>IDS__TargetReq_DESC_PROCESSOR</td><td>1033</td><td>The processor is not adequate for running [ProductName].</td><td>0</td><td/><td>748918568</td></row>
 		<row><td>IDS__TargetReq_DESC_RAM</td><td>1033</td><td>The amount of RAM is not adequate for running [ProductName].</td><td>0</td><td/><td>748918568</td></row>
 		<row><td>IDS__TargetReq_DESC_RESOLUTION</td><td>1033</td><td>The screen resolution is not adequate for running [ProductName].</td><td>0</td><td/><td>748918568</td></row>
-		<row><td>ID_STRING1</td><td>1033</td><td>http://www.NuevoLLC.com</td><td>0</td><td/><td>748881609</td></row>
-		<row><td>ID_STRING2</td><td>1033</td><td>NuevoLLC</td><td>0</td><td/><td>748881609</td></row>
+		<row><td>ID_STRING1</td><td>1033</td><td>http://www.NuevoLLC.com</td><td>0</td><td/><td>883115791</td></row>
+		<row><td>ID_STRING2</td><td>1033</td><td>NuevoLLC</td><td>0</td><td/><td>883115791</td></row>
 		<row><td>IIDS_UITEXT_FeatureUninstalled</td><td>1033</td><td>This feature will remain uninstalled.</td><td>0</td><td/><td>748918568</td></row>
 	</table>
 
@@ -3967,7 +3971,7 @@ UwBpAG4AZwBsAGUASQBtAGEAZwBlAAEARQB4AHAAcgBlAHMAcwA=
 		<row><td>ISTheme</td><td>InstallShield Blue.theme</td></row>
 		<row><td>ISUSLock</td><td>{A7B16ED2-C05B-4449-A2A2-B56ED34B5EF2}</td></row>
 		<row><td>ISUSSignature</td><td>{899220D1-CDE0-4EEB-BB6D-3603AFE55A84}</td></row>
-		<row><td>ISVisitedViews</td><td>viewAssistant,viewISToday,viewLearnMore,viewAppFiles,viewServices,viewUI,viewTextMessages,viewRelease,viewProject</td></row>
+		<row><td>ISVisitedViews</td><td>viewAssistant,viewISToday,viewLearnMore,viewAppFiles,viewServices,viewUI,viewTextMessages,viewRelease,viewProject,viewObjects,viewSystemSearch</td></row>
 		<row><td>Limited</td><td>1</td></row>
 		<row><td>LockPermissionMode</td><td>1</td></row>
 		<row><td>MsiExecCmdLineOptions</td><td/></row>
