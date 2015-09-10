@@ -15,6 +15,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeptCallProcessor", "..\Dep
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeptReportingSvc", "..\DeptReportSvc\DeptReportingSvc\DeptReportingSvc.csproj", "{1EE908F9-3C0D-48F7-B0E7-FEE681B572B3}"
 EndProject
+Project("{6141683F-8A12-4E36-9623-2EB02B2C2303}") = "DeptCallReportSetup", "..\DeptCallReportSetup\DeptCallReportSetup.isproj", "{FFEB0D5D-62F2-4245-A9E9-FFC134F17298}"
+	ProjectSection(ProjectDependencies) = postProject
+		{1EE908F9-3C0D-48F7-B0E7-FEE681B572B3} = {1EE908F9-3C0D-48F7-B0E7-FEE681B572B3}
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		CD_ROM|Any CPU = CD_ROM|Any CPU
@@ -84,6 +89,16 @@ Global
 		{1EE908F9-3C0D-48F7-B0E7-FEE681B572B3}.Release|Any CPU.Build.0 = Release|Any CPU
 		{1EE908F9-3C0D-48F7-B0E7-FEE681B572B3}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
 		{1EE908F9-3C0D-48F7-B0E7-FEE681B572B3}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{FFEB0D5D-62F2-4245-A9E9-FFC134F17298}.CD_ROM|Any CPU.ActiveCfg = CD_ROM
+		{FFEB0D5D-62F2-4245-A9E9-FFC134F17298}.CD_ROM|Any CPU.Build.0 = CD_ROM
+		{FFEB0D5D-62F2-4245-A9E9-FFC134F17298}.Debug|Any CPU.ActiveCfg = DVD-5
+		{FFEB0D5D-62F2-4245-A9E9-FFC134F17298}.Debug|Any CPU.Build.0 = DVD-5
+		{FFEB0D5D-62F2-4245-A9E9-FFC134F17298}.DVD-5|Any CPU.ActiveCfg = DVD-5
+		{FFEB0D5D-62F2-4245-A9E9-FFC134F17298}.DVD-5|Any CPU.Build.0 = DVD-5
+		{FFEB0D5D-62F2-4245-A9E9-FFC134F17298}.Release|Any CPU.ActiveCfg = SingleImage
+		{FFEB0D5D-62F2-4245-A9E9-FFC134F17298}.Release|Any CPU.Build.0 = SingleImage
+		{FFEB0D5D-62F2-4245-A9E9-FFC134F17298}.SingleImage|Any CPU.ActiveCfg = SingleImage
+		{FFEB0D5D-62F2-4245-A9E9-FFC134F17298}.SingleImage|Any CPU.Build.0 = SingleImage
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
